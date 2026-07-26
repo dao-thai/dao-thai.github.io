@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f7f5fb">
+  <title>Dao Thai Study</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <button id="menu" class="mobile-menu" type="button" aria-controls="side" aria-expanded="false">아카이브</button>
+
+  <div class="layout">
+    <aside id="side" class="sidebar">
+      <button id="home" class="brand" type="button">
+        <span class="brand-mark">ดาว</span>
+        <span class="brand-copy"><b>Dao Thai Study</b><small>태국어 노래 스터디</small></span>
+      </button>
+      <label class="search"><span class="sr-only">검색</span><input id="search" type="search" placeholder="날짜·곡명·가수·가사 검색"></label>
+      <nav id="archive" aria-label="스터디 아카이브"></nav>
+    </aside>
+
+    <main id="view" class="main"></main>
+  </div>
+
+  <div class="utility-buttons" aria-label="화면 도구">
+    <button id="fontToggle" class="utility-button" type="button" aria-pressed="false" title="태국어 글꼴 전환">
+      <span class="utility-icon" lang="th">ก</span>
+      <span id="fontToggleText">기본 태국어</span>
+    </button>
+    <button id="noteToggle" class="utility-button" type="button" aria-controls="quickNote" aria-expanded="true">
+      <span class="utility-icon">✎</span>
+      <span>퀵 노트</span>
+    </button>
+  </div>
+
+  <aside id="quickNote" class="quick-note" aria-label="태국어 암기 퀵 노트">
+    <div class="quick-note-head">
+      <div>
+        <small>QUICK MEMO</small>
+        <h2>태국어 암기 노트</h2>
+      </div>
+      <button id="noteClose" type="button" aria-label="퀵 노트 접기">×</button>
+    </div>
+    <p class="quick-note-help">외우고 싶은 규칙을 자유롭게 적어두세요. 이 브라우저에 자동 저장돼요.</p>
+    <textarea id="noteContent" spellcheck="false" aria-label="태국어 암기 노트"></textarea>
+    <div class="quick-note-footer">
+      <span id="noteSaved">자동 저장</span>
+      <button id="noteReset" type="button">기본 메모 복원</button>
+    </div>
+  </aside>
+
+  <div id="player" class="player" hidden>
+    <div class="player-info">
+      <span class="player-dot" aria-hidden="true"></span>
+      <div class="player-copy">
+        <b id="ptitle">문장 듣기</b>
+        <small id="pstatus">재생 버튼을 눌러 음성을 들어보세요.</small>
+      </div>
+    </div>
+    <div class="player-controls">
+      <button id="rewind" type="button" aria-label="5초 뒤로">−5</button>
+      <button id="pp" class="player-main" type="button" aria-label="재생 또는 일시정지">▶</button>
+      <button id="repeat" type="button" aria-pressed="false">반복</button>
+      <select id="speed" aria-label="재생 속도">
+        <option value="0.75">0.75×</option>
+        <option value="1" selected>1×</option>
+        <option value="1.25">1.25×</option>
+        <option value="1.5">1.5×</option>
+      </select>
+    </div>
+  </div>
+
+  <audio id="audio"></audio>
+  <script src="data/studies.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
