@@ -1,4 +1,464 @@
-window.STUDIES=[
+window.STUDIES=[{
+"id": "2026-08-13-your-story",
+"date": "2026-08-13",
+"title": "นิยายเรื่องเธอ (Your Story) เพลงประกอบซีรีส์ Pluto นิทาน ดวงดาว ความรัก",
+"artist": "",
+"youtube": "[https://youtu.be/hsvQg5JSDHU?si=Nzi3WSYiXtGJbXQp](https://youtu.be/hsvQg5JSDHU?si=Nzi3WSYiXtGJbXQp)",
+"description": "학습 구간 1:31–1:57",
+"sentences": [
+{
+"id": "s1",
+"thai": "หากว่าฉันจะเขียนเรียงร้อยเรื่องราวสักเรื่องหนึ่ง",
+"audio": "",
+"natural": "내가 어떤 이야기 하나를 글로 엮어 쓴다면.",
+"tokens": [
+{
+"meaning": "만약 ~라면",
+"syllables": [
+{
+"thai": "หาก",
+"reading": "하-ㄱ",
+"tone": "low"
+},
+{
+"thai": "ว่า",
+"reading": "와-",
+"tone": "falling"
+}
+]
+},
+{
+"meaning": "나",
+"syllables": [
+{
+"thai": "ฉัน",
+"reading": "찬",
+"tone": "rising"
+}
+]
+},
+{
+"meaning": "~할 것이다",
+"syllables": [
+{
+"thai": "จะ",
+"reading": "짜",
+"tone": "low"
+}
+]
+},
+{
+"meaning": "글로 아름답게 엮어 쓰다",
+"syllables": [
+{
+"thai": "เขียน",
+"reading": "키아-ㄴ",
+"tone": "rising"
+},
+{
+"thai": "เรียง",
+"reading": "리아-ㅇ",
+"tone": "mid"
+},
+{
+"thai": "ร้อย",
+"reading": "러-이",
+"tone": "high"
+}
+]
+},
+{
+"meaning": "이야기",
+"syllables": [
+{
+"thai": "เรื่อง",
+"reading": "르ㅡ아-ㅇ",
+"tone": "falling"
+},
+{
+"thai": "ราว",
+"reading": "라-우",
+"tone": "mid"
+}
+]
+},
+{
+"meaning": "어떤 이야기 하나",
+"syllables": [
+{
+"thai": "สัก",
+"reading": "싹",
+"tone": "low"
+},
+{
+"thai": "เรื่อง",
+"reading": "르ㅡ아-ㅇ",
+"tone": "falling"
+},
+{
+"thai": "หนึ่ง",
+"reading": "느ㅡㅇ",
+"tone": "low"
+}
+]
+}
+],
+"studyNotes": [
+"หากว่า는 ‘만약 ~라면’이라는 조건을 나타내며, ถ้า보다 문어적이고 서정적인 느낌이 있다.",
+"เรียงร้อย는 여러 요소를 순서 있게 엮는다는 뜻으로, 말이나 글을 아름답게 구성하는 문맥에서 자주 쓰인다.",
+"เรื่องราว는 เรื่อง보다 조금 더 확장된 ‘이야기·사연·일련의 사건’을 뜻한다.",
+"สัก + 분류사 + หนึ่ง은 ‘어떤 것 하나, 하나쯤’이라는 막연한 수량을 나타낸다."
+]
+},
+{
+"id": "s2",
+"thai": "ขอเลือกเขียนเพียงเรื่องของฉันและเธอ",
+"audio": "",
+"natural": "오직 나와 너의 이야기만을 골라 쓰고 싶어.",
+"tokens": [
+{
+"meaning": "~하기를 바라다·~하고 싶다",
+"syllables": [
+{
+"thai": "ขอ",
+"reading": "커-",
+"tone": "rising"
+}
+]
+},
+{
+"meaning": "골라서 쓰다",
+"syllables": [
+{
+"thai": "เลือก",
+"reading": "르ㅡ악",
+"tone": "falling"
+},
+{
+"thai": "เขียน",
+"reading": "키아-ㄴ",
+"tone": "rising"
+}
+]
+},
+{
+"meaning": "오직·단지",
+"syllables": [
+{
+"thai": "เพียง",
+"reading": "피아-ㅇ",
+"tone": "mid"
+}
+]
+},
+{
+"meaning": "이야기",
+"syllables": [
+{
+"thai": "เรื่อง",
+"reading": "르ㅡ아-ㅇ",
+"tone": "falling"
+}
+]
+},
+{
+"meaning": "나와 너의",
+"syllables": [
+{
+"thai": "ของ",
+"reading": "커-ㅇ",
+"tone": "rising"
+},
+{
+"thai": "ฉัน",
+"reading": "찬",
+"tone": "rising"
+},
+{
+"thai": "และ",
+"reading": "래",
+"tone": "high"
+},
+{
+"thai": "เธอ",
+"reading": "트ㅓ-",
+"tone": "mid"
+}
+]
+}
+],
+"studyNotes": [
+"ขอ + 동사는 부탁뿐 아니라 화자의 소망이나 의지를 부드럽게 나타낼 때도 쓴다.",
+"เลือก + 동사는 여러 선택지 중에서 ‘~하기를 선택하다’라는 뜻이다.",
+"เพียง은 ‘오직·단지’라는 뜻으로 แค่와 비슷하지만, 노래나 문어체에서는 더 부드럽고 서정적으로 들린다.",
+"เรื่องของฉันและเธอ는 직역하면 ‘나와 너의 이야기’이며 두 사람의 관계나 사랑 이야기를 가리킨다."
+]
+},
+{
+"id": "s3",
+"thai": "ไม่อาจเปรียบสิ่งไหน เพราะว่าคงเป็นเธอ",
+"audio": "",
+"natural": "그 무엇과도 비교할 수 없어, 아마 너이기 때문이겠지.",
+"tokens": [
+{
+"meaning": "~할 수 없다",
+"syllables": [
+{
+"thai": "ไม่",
+"reading": "마이-",
+"tone": "falling"
+},
+{
+"thai": "อาจ",
+"reading": "아-ㅅ",
+"tone": "low"
+}
+]
+},
+{
+"meaning": "무엇과 비교하다",
+"syllables": [
+{
+"thai": "เปรียบ",
+"reading": "쁘리압",
+"tone": "low"
+},
+{
+"thai": "สิ่ง",
+"reading": "씽",
+"tone": "low"
+},
+{
+"thai": "ไหน",
+"reading": "나이-",
+"tone": "rising"
+}
+]
+},
+{
+"meaning": "왜냐하면",
+"syllables": [
+{
+"thai": "เพราะ",
+"reading": "프러",
+"tone": "high"
+},
+{
+"thai": "ว่า",
+"reading": "와-",
+"tone": "falling"
+}
+]
+},
+{
+"meaning": "아마 ~일 것이다",
+"syllables": [
+{
+"thai": "คง",
+"reading": "콩",
+"tone": "mid"
+},
+{
+"thai": "เป็น",
+"reading": "뻰",
+"tone": "mid"
+}
+]
+},
+{
+"meaning": "너",
+"syllables": [
+{
+"thai": "เธอ",
+"reading": "트ㅓ-",
+"tone": "mid"
+}
+]
+}
+],
+"studyNotes": [
+"ไม่อาจ + 동사는 ‘~할 수 없다’라는 뜻으로 ไม่สามารถ보다 문학적이고 감정적인 느낌이 있다.",
+"เปรียบสิ่งไหน는 문맥상 ‘그 어떤 것과 비교하다’이며, ไม่와 함께 쓰여 ‘무엇과도 비교할 수 없다’가 된다.",
+"คง은 확신보다는 추측을 담은 ‘아마·아마도 ~일 것이다’를 나타낸다.",
+"เพราะว่า는 이유를 설명하는 ‘왜냐하면 ~이기 때문이다’라는 표현이다."
+]
+},
+{
+"id": "s4",
+"thai": "ที่ฉันยอมมอบดวงใจ ไม่ว่านานเท่าไหร่",
+"audio": "",
+"natural": "아무리 오랜 시간이 흘러도 내가 기꺼이 마음을 내어 줄 사람은 너야.",
+"tokens": [
+{
+"meaning": "~한 사람·~하는 존재",
+"syllables": [
+{
+"thai": "ที่",
+"reading": "티-",
+"tone": "falling"
+}
+]
+},
+{
+"meaning": "나",
+"syllables": [
+{
+"thai": "ฉัน",
+"reading": "찬",
+"tone": "rising"
+}
+]
+},
+{
+"meaning": "기꺼이 내어 주다",
+"syllables": [
+{
+"thai": "ยอม",
+"reading": "여-ㅁ",
+"tone": "mid"
+},
+{
+"thai": "มอบ",
+"reading": "머-ㅂ",
+"tone": "falling"
+}
+]
+},
+{
+"meaning": "마음·심장",
+"syllables": [
+{
+"thai": "ดวง",
+"reading": "두아-ㅇ",
+"tone": "mid"
+},
+{
+"thai": "ใจ",
+"reading": "짜이-",
+"tone": "mid"
+}
+]
+},
+{
+"meaning": "아무리 오래되어도",
+"syllables": [
+{
+"thai": "ไม่",
+"reading": "마이-",
+"tone": "falling"
+},
+{
+"thai": "ว่า",
+"reading": "와-",
+"tone": "falling"
+},
+{
+"thai": "นาน",
+"reading": "나-ㄴ",
+"tone": "mid"
+},
+{
+"thai": "เท่า",
+"reading": "타오-",
+"tone": "falling"
+},
+{
+"thai": "ไหร่",
+"reading": "라이-",
+"tone": "low"
+}
+]
+}
+],
+"studyNotes": [
+"ยอม + 동사는 단순히 행동하는 것이 아니라 ‘기꺼이·감수하고 ~하다’라는 뜻을 더한다.",
+"มอบ는 주다라는 뜻의 ให้보다 격식 있고 진중하며, 마음·사랑·선물 등을 바친다는 문맥에서 자주 쓰인다.",
+"ดวงใจ는 직역하면 ‘마음·심장’이며 사랑하는 사람 또는 소중한 마음을 시적으로 표현할 때 쓴다.",
+"ไม่ว่า…เท่าไหร่는 ‘아무리 ~하더라도’라는 양보 표현이다."
+]
+},
+{
+"id": "s5",
+"thai": "ก็ยังเขียนได้เพียงนิยายเรื่องเธอ",
+"audio": "",
+"natural": "그래도 내가 쓸 수 있는 건 오직 너에 관한 이야기뿐이야.",
+"tokens": [
+{
+"meaning": "그래도 여전히",
+"syllables": [
+{
+"thai": "ก็",
+"reading": "꺼",
+"tone": "falling"
+},
+{
+"thai": "ยัง",
+"reading": "양",
+"tone": "mid"
+}
+]
+},
+{
+"meaning": "쓸 수 있다",
+"syllables": [
+{
+"thai": "เขียน",
+"reading": "키아-ㄴ",
+"tone": "rising"
+},
+{
+"thai": "ได้",
+"reading": "다이-",
+"tone": "falling"
+}
+]
+},
+{
+"meaning": "오직·단지",
+"syllables": [
+{
+"thai": "เพียง",
+"reading": "피아-ㅇ",
+"tone": "mid"
+}
+]
+},
+{
+"meaning": "너에 관한 이야기·소설",
+"syllables": [
+{
+"thai": "นิ",
+"reading": "니",
+"tone": "high"
+},
+{
+"thai": "ยาย",
+"reading": "야-이",
+"tone": "mid"
+},
+{
+"thai": "เรื่อง",
+"reading": "르ㅡ아-ㅇ",
+"tone": "falling"
+},
+{
+"thai": "เธอ",
+"reading": "트ㅓ-",
+"tone": "mid"
+}
+]
+}
+],
+"studyNotes": [
+"ก็ยัง는 앞의 상황과 관계없이 어떤 상태가 계속됨을 나타내어 ‘그래도 여전히’라는 뜻이 된다.",
+"동사 + ได้는 문맥에 따라 ‘~할 수 있다’라는 가능을 나타낸다.",
+"นิยาย는 허구로 구성된 ‘소설·이야기’를 뜻하며, เรื่องเธอ는 ‘너에 관한 이야기’다.",
+"เพียงนิยายเรื่องเธอ는 수많은 이야기 중에서도 오직 너의 이야기만 쓸 수 있다는 사랑의 집중과 확신을 표현한다."
+]
+}
+]
+}
+,
   {
     "id": "2026-07-30-a-leap-of-faith",
     "date": "2026-07-30",
