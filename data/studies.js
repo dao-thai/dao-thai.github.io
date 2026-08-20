@@ -1,4 +1,680 @@
 window.STUDIES=[{
+"id": "",
+"date": "",
+"title": "",
+"artist": "",
+"youtube": "",
+"description": "",
+"sentences": [
+{
+"id": "s1",
+"thai": "ติดเธอไม่ไหว ติดฝนอยู่ด้วยกันก่อนได้ไหม",
+"audio": "",
+"natural": "너에게 빠져서 어쩔 수가 없어. 비에 갇힌 김에 우리 조금만 더 같이 있어도 될까?",
+"tokens": [
+{
+"meaning": "너에게 빠지다·너에게서 헤어나지 못하다",
+"syllables": [
+{
+"thai": "ติด",
+"reading": "띳",
+"tone": "low"
+},
+{
+"thai": "เธอ",
+"reading": "트ㅓ-",
+"tone": "mid"
+}
+]
+},
+{
+"meaning": "견딜 수 없다·어쩔 수 없다",
+"syllables": [
+{
+"thai": "ไม่",
+"reading": "마이-",
+"tone": "falling"
+},
+{
+"thai": "ไหว",
+"reading": "와이-",
+"tone": "rising"
+}
+]
+},
+{
+"meaning": "비 때문에 발이 묶이다",
+"syllables": [
+{
+"thai": "ติด",
+"reading": "띳",
+"tone": "low"
+},
+{
+"thai": "ฝน",
+"reading": "f폰",
+"tone": "rising"
+}
+]
+},
+{
+"meaning": "함께 있다",
+"syllables": [
+{
+"thai": "อยู่",
+"reading": "유-",
+"tone": "low"
+},
+{
+"thai": "ด้วย",
+"reading": "두아이-",
+"tone": "falling"
+},
+{
+"thai": "กัน",
+"reading": "깐",
+"tone": "mid"
+}
+]
+},
+{
+"meaning": "우선·조금 더 먼저",
+"syllables": [
+{
+"thai": "ก่อน",
+"reading": "꺼-ㄴ",
+"tone": "low"
+}
+]
+},
+{
+"meaning": "~해도 될까?",
+"syllables": [
+{
+"thai": "ได้",
+"reading": "다이-",
+"tone": "falling"
+},
+{
+"thai": "ไหม",
+"reading": "마이-",
+"tone": "rising"
+}
+]
+}
+],
+"studyNotes": [
+"ติด은 기본적으로 ‘붙다·걸리다·갇히다’라는 뜻인데 사람과 함께 쓰면 ‘빠지다·중독되다·정이 들다’라는 의미로도 쓰인다.",
+"ติดเธอ와 ติดฝน을 나란히 배치해 ‘너에게 빠지다’와 ‘비 때문에 발이 묶이다’를 이용한 말장난을 만든다.",
+"ไม่ไหว는 단순히 ‘못하다’보다 ‘더는 감당할 수 없다·어쩔 수 없다’라는 감정이 강하다.",
+"อยู่ด้วยกัน은 ‘함께 있다’, อยู่ด้วยกันก่อน은 ‘일단 조금 더 같이 있자’라는 느낌이다."
+]
+},
+{
+"id": "s2",
+"thai": "ถ้าเธอไม่รีบไป",
+"audio": "",
+"natural": "네가 급하게 가지 않아도 된다면.",
+"tokens": [
+{
+"meaning": "만약 ~라면",
+"syllables": [
+{
+"thai": "ถ้า",
+"reading": "타-",
+"tone": "falling"
+}
+]
+},
+{
+"meaning": "너",
+"syllables": [
+{
+"thai": "เธอ",
+"reading": "트ㅓ-",
+"tone": "mid"
+}
+]
+},
+{
+"meaning": "서두르지 않다",
+"syllables": [
+{
+"thai": "ไม่",
+"reading": "마이-",
+"tone": "falling"
+},
+{
+"thai": "รีบ",
+"reading": "리-ㅂ",
+"tone": "falling"
+}
+]
+},
+{
+"meaning": "가다",
+"syllables": [
+{
+"thai": "ไป",
+"reading": "빠이-",
+"tone": "mid"
+}
+]
+}
+],
+"studyNotes": [
+"ถ้า는 가장 일반적인 ‘만약 ~라면’ 조건 표현이다.",
+"รีบ + 동사는 ‘서둘러 ~하다’이며 ไม่รีบไป는 ‘급하게 갈 필요가 없다·서둘러 가지 않다’라는 뜻이다."
+]
+},
+{
+"id": "s3",
+"thai": "ฝนยังไม่จาง กลับไปเดี๋ยวไม่สบาย",
+"audio": "",
+"natural": "비가 아직 그치지 않았어. 지금 돌아가면 몸이 안 좋아질 수도 있어.",
+"tokens": [
+{
+"meaning": "비",
+"syllables": [
+{
+"thai": "ฝน",
+"reading": "f폰",
+"tone": "rising"
+}
+]
+},
+{
+"meaning": "아직 ~하지 않다",
+"syllables": [
+{
+"thai": "ยัง",
+"reading": "양",
+"tone": "mid"
+},
+{
+"thai": "ไม่",
+"reading": "마이-",
+"tone": "falling"
+}
+]
+},
+{
+"meaning": "옅어지다·약해지다",
+"syllables": [
+{
+"thai": "จาง",
+"reading": "짜-ㅇ",
+"tone": "mid"
+}
+]
+},
+{
+"meaning": "돌아가다",
+"syllables": [
+{
+"thai": "กลับ",
+"reading": "끌랍",
+"tone": "low"
+},
+{
+"thai": "ไป",
+"reading": "빠이-",
+"tone": "mid"
+}
+]
+},
+{
+"meaning": "그러다가는·곧",
+"syllables": [
+{
+"thai": "เดี๋ยว",
+"reading": "디아오-",
+"tone": "rising"
+}
+]
+},
+{
+"meaning": "몸이 안 좋다·아프다",
+"syllables": [
+{
+"thai": "ไม่",
+"reading": "마이-",
+"tone": "falling"
+},
+{
+"thai": "สะ",
+"reading": "싸",
+"tone": "low"
+},
+{
+"thai": "บาย",
+"reading": "바-이",
+"tone": "mid"
+}
+]
+}
+],
+"studyNotes": [
+"ยังไม่ + 동사·형용사는 ‘아직 ~하지 않다’라는 뜻이다.",
+"จาง은 색·연기·비 등이 ‘옅어지다, 약해지다’라는 뜻으로 여기서는 비가 아직 충분히 약해지지 않았다는 의미다.",
+"ไม่สบาย는 직역하면 ‘편안하지 않다’지만 실제로는 ‘몸이 안 좋다·아프다’라는 뜻으로 매우 자주 쓰인다.",
+"เดี๋ยว + 부정적인 결과는 ‘그러다가는 ~할 거야’라는 경고나 걱정의 느낌을 줄 수 있다."
+]
+},
+{
+"id": "s4",
+"thai": "อยู่ก่อนไหม",
+"audio": "",
+"natural": "조금만 더 있다 갈래?",
+"tokens": [
+{
+"meaning": "조금 더 머물다",
+"syllables": [
+{
+"thai": "อยู่",
+"reading": "유-",
+"tone": "low"
+},
+{
+"thai": "ก่อน",
+"reading": "꺼-ㄴ",
+"tone": "low"
+}
+]
+},
+{
+"meaning": "~할래?·~할까?",
+"syllables": [
+{
+"thai": "ไหม",
+"reading": "마이-",
+"tone": "rising"
+}
+]
+}
+],
+"studyNotes": [
+"อยู่ก่อน은 직역하면 ‘먼저 있다’이지만 상황에 따라 ‘조금 더 있다가 가다’라는 의미가 된다.",
+"ไหม를 붙이면 상대에게 부드럽게 제안하는 ‘~할래?’가 된다."
+]
+},
+{
+"id": "s5",
+"thai": "ติดเธอไม่ไหว ติดฝนอยู่ด้วยกันก่อนได้ไหม",
+"audio": "",
+"natural": "너에게 빠져서 어쩔 수가 없어. 비에 갇힌 김에 우리 조금만 더 같이 있어도 될까?",
+"tokens": [
+{
+"meaning": "너에게 빠지다",
+"syllables": [
+{
+"thai": "ติด",
+"reading": "띳",
+"tone": "low"
+},
+{
+"thai": "เธอ",
+"reading": "트ㅓ-",
+"tone": "mid"
+}
+]
+},
+{
+"meaning": "견딜 수 없다",
+"syllables": [
+{
+"thai": "ไม่",
+"reading": "마이-",
+"tone": "falling"
+},
+{
+"thai": "ไหว",
+"reading": "와이-",
+"tone": "rising"
+}
+]
+},
+{
+"meaning": "비 때문에 발이 묶이다",
+"syllables": [
+{
+"thai": "ติด",
+"reading": "띳",
+"tone": "low"
+},
+{
+"thai": "ฝน",
+"reading": "f폰",
+"tone": "rising"
+}
+]
+},
+{
+"meaning": "함께 있다",
+"syllables": [
+{
+"thai": "อยู่",
+"reading": "유-",
+"tone": "low"
+},
+{
+"thai": "ด้วย",
+"reading": "두아이-",
+"tone": "falling"
+},
+{
+"thai": "กัน",
+"reading": "깐",
+"tone": "mid"
+}
+]
+},
+{
+"meaning": "조금 더",
+"syllables": [
+{
+"thai": "ก่อน",
+"reading": "꺼-ㄴ",
+"tone": "low"
+}
+]
+},
+{
+"meaning": "~해도 될까?",
+"syllables": [
+{
+"thai": "ได้",
+"reading": "다이-",
+"tone": "falling"
+},
+{
+"thai": "ไหม",
+"reading": "마이-",
+"tone": "rising"
+}
+]
+}
+],
+"studyNotes": [
+"후렴의 핵심은 ติดเธอ와 ติดฝน의 이중적인 ติด 표현이다.",
+"한쪽은 ‘너에게 빠져 있다’, 다른 쪽은 ‘비 때문에 발이 묶여 있다’라는 뜻으로 연결된다."
+]
+},
+{
+"id": "s6",
+"thai": "ถ้าเธอไม่ว่าอะไร",
+"audio": "",
+"natural": "네가 괜찮다면.",
+"tokens": [
+{
+"meaning": "만약",
+"syllables": [
+{
+"thai": "ถ้า",
+"reading": "타-",
+"tone": "falling"
+}
+]
+},
+{
+"meaning": "너",
+"syllables": [
+{
+"thai": "เธอ",
+"reading": "트ㅓ-",
+"tone": "mid"
+}
+]
+},
+{
+"meaning": "괜찮다면·문제 삼지 않는다면",
+"syllables": [
+{
+"thai": "ไม่",
+"reading": "마이-",
+"tone": "falling"
+},
+{
+"thai": "ว่า",
+"reading": "와-",
+"tone": "falling"
+},
+{
+"thai": "อะ",
+"reading": "아",
+"tone": "low"
+},
+{
+"thai": "ไร",
+"reading": "라이-",
+"tone": "mid"
+}
+]
+}
+],
+"studyNotes": [
+"ไม่ว่าอะไร는 직역하면 ‘아무 말도 하지 않다’이지만 이 문맥에서는 ‘상관없다면·괜찮다면·개의치 않는다면’이라는 뜻이다.",
+"ถ้าเธอไม่ว่าอะไร는 상대의 허락이나 동의를 조심스럽게 확인하는 부드러운 표현이다."
+]
+},
+{
+"id": "s7",
+"thai": "ฝนยังไม่ซา รออีกแป๊บเราค่อยลา",
+"audio": "",
+"natural": "비가 아직 잦아들지 않았어. 조금만 더 기다렸다가 우리 그때 헤어지자.",
+"tokens": [
+{
+"meaning": "비",
+"syllables": [
+{
+"thai": "ฝน",
+"reading": "f폰",
+"tone": "rising"
+}
+]
+},
+{
+"meaning": "아직 ~하지 않다",
+"syllables": [
+{
+"thai": "ยัง",
+"reading": "양",
+"tone": "mid"
+},
+{
+"thai": "ไม่",
+"reading": "마이-",
+"tone": "falling"
+}
+]
+},
+{
+"meaning": "잦아들다·약해지다",
+"syllables": [
+{
+"thai": "ซา",
+"reading": "싸-",
+"tone": "mid"
+}
+]
+},
+{
+"meaning": "기다리다",
+"syllables": [
+{
+"thai": "รอ",
+"reading": "러-",
+"tone": "mid"
+}
+]
+},
+{
+"meaning": "조금 더",
+"syllables": [
+{
+"thai": "อีก",
+"reading": "이-ㄱ",
+"tone": "low"
+},
+{
+"thai": "แป๊บ",
+"reading": "빼-ㅂ",
+"tone": "high"
+}
+]
+},
+{
+"meaning": "우리",
+"syllables": [
+{
+"thai": "เรา",
+"reading": "라오-",
+"tone": "mid"
+}
+]
+},
+{
+"meaning": "그때 가서 ~하다",
+"syllables": [
+{
+"thai": "ค่อย",
+"reading": "커이-",
+"tone": "falling"
+}
+]
+},
+{
+"meaning": "헤어지다·작별하다",
+"syllables": [
+{
+"thai": "ลา",
+"reading": "라-",
+"tone": "mid"
+}
+]
+}
+],
+"studyNotes": [
+"ซา는 비·바람·통증·소란 등이 ‘잦아들다, 약해지다’라는 뜻이다.",
+"อีกแป๊บ은 ‘조금만 더, 잠깐만 더’라는 매우 일상적인 표현이다.",
+"ค่อย + 동사는 ‘먼저 다른 일을 하고 나서 그때 ~하다’라는 순서를 나타낸다.",
+"ลา는 ‘작별하다’이며 เราค่อยลา는 ‘우리 조금 있다가 헤어지자’라는 서정적인 표현이다."
+]
+},
+{
+"id": "s8",
+"thai": "จะได้ไหม",
+"audio": "",
+"natural": "그래도 될까?",
+"tokens": [
+{
+"meaning": "~해도 될까?",
+"syllables": [
+{
+"thai": "จะ",
+"reading": "짜",
+"tone": "low"
+},
+{
+"thai": "ได้",
+"reading": "다이-",
+"tone": "falling"
+},
+{
+"thai": "ไหม",
+"reading": "마이-",
+"tone": "rising"
+}
+]
+}
+],
+"studyNotes": [
+"จะได้ไหม는 앞에서 제안한 내용을 받아 ‘그렇게 해도 될까?·가능할까?’라고 다시 묻는 표현이다.",
+"단독으로 쓰이면 앞 문맥 전체를 가리키므로 한국어에서는 ‘그래도 될까?’가 자연스럽다."
+]
+},
+{
+"id": "s9",
+"thai": "ติดเธอเข้าแล้ว ไม่อยากให้ไป",
+"audio": "",
+"natural": "어느새 너에게 푹 빠져 버렸어. 네가 가지 않았으면 좋겠어.",
+"tokens": [
+{
+"meaning": "너에게 빠져 버리다",
+"syllables": [
+{
+"thai": "ติด",
+"reading": "띳",
+"tone": "low"
+},
+{
+"thai": "เธอ",
+"reading": "트ㅓ-",
+"tone": "mid"
+}
+]
+},
+{
+"meaning": "이미 그렇게 되어 버리다",
+"syllables": [
+{
+"thai": "เข้า",
+"reading": "카오-",
+"tone": "falling"
+},
+{
+"thai": "แล้ว",
+"reading": "래오-",
+"tone": "high"
+}
+]
+},
+{
+"meaning": "~하고 싶지 않다",
+"syllables": [
+{
+"thai": "ไม่",
+"reading": "마이-",
+"tone": "falling"
+},
+{
+"thai": "อยาก",
+"reading": "야-ㄱ",
+"tone": "low"
+}
+]
+},
+{
+"meaning": "~하게 하다",
+"syllables": [
+{
+"thai": "ให้",
+"reading": "하이-",
+"tone": "falling"
+}
+]
+},
+{
+"meaning": "가다",
+"syllables": [
+{
+"thai": "ไป",
+"reading": "빠이-",
+"tone": "mid"
+}
+]
+}
+],
+"studyNotes": [
+"ติดเธอเข้าแล้ว는 단순한 ติดเธอ보다 ‘어느새 너에게 빠져 버렸다’처럼 이미 감정이 깊어진 상태를 강조한다.",
+"เข้าแล้ว는 어떤 상태에 들어가 이미 그렇게 되어 버렸다는 변화·완료의 느낌을 준다.",
+"ไม่อยากให้ + 사람 + 동사는 ‘그 사람이 ~하지 않았으면 좋겠다’라는 표현이다.",
+"ไม่อยากให้ไป는 문맥상 ‘네가 가지 않았으면 좋겠어’라는 뜻이다."
+]
+}
+]
+}
+,{
 "id": "2026-08-13-your-story",
 "date": "2026-08-13",
 "title": "นิยายเรื่องเธอ (Your Story) เพลงประกอบซีรีส์ Pluto นิทาน ดวงดาว ความรัก",
