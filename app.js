@@ -57,7 +57,11 @@ function buildArchive(list){
 function selectStudy(study){
   if(!study)return;
   stopPlayback(true); current=study; location.hash=study.id; buildArchive(filterStudies());
-  view.innerHTML=`<article class="study"><header class="head"><div><div class="date">${study.date.replaceAll("-",".")}</div><h1>${escapeHtml(study.title)}</h1><p class="artist">${escapeHtml(study.artist)}</p>${study.description?`<p class="desc">${escapeHtml(study.description)}</p>`:""}</div><a class="yt" href="${escapeHtml(study.youtube||"#")}" target="_blank" rel="noopener">▶ YouTube에서 듣기</a></header><div class="legend">${Object.keys(TONE_LABELS).map(t=>`<span>${toneSvg(t)}${TONE_LABELS[t]}</span>`).join("")}<span>- 장모음</span></div>${study.sentences.map((sentence,index)=>renderCard(sentence,index)).join("")}</article>`;
+  const youtubeUrl=String(study.youtube||"").trim();
+  const videoUrl=String(study.video||"").trim();
+  const mediaAction=videoUrl?`<button class="yt video-trigger" data-video type="button">▶ 드라마 영상 보기</button>`:youtubeUrl?`<a class="yt" href="${escapeHtml(youtubeUrl)}" target="_blank" rel="noopener">▶ YouTube에서 듣기</a>`:"";
+  view.innerHTML=`<article class="study"><header class="head"><div><div class="date">${study.date.replaceAll("-",".")}</div><h1>${escapeHtml(study.title)}</h1><p class="artist">${escapeHtml(study.artist)}</p>${study.description?`<p class="desc">${escapeHtml(study.description)}</p>`:""}</div>${mediaAction}</header><div class="legend">${Object.keys(TONE_LABELS).map(t=>`<span>${toneSvg(t)}${TONE_LABELS[t]}</span>`).join("")}<span>- 장모음</span></div>${study.sentences.map((sentence,index)=>renderCard(sentence,index)).join("")}</article>`;
+  view.querySelector("[data-video]")?.addEventListener("click",()=>openStudyVideo(study,videoUrl));
   view.querySelectorAll("[data-play]").forEach(button=>button.addEventListener("click",()=>playSentence(study.sentences.find(s=>s.id===button.dataset.play))));
   closeSidebar(); window.scrollTo({top:0,behavior:"smooth"});
 }
@@ -125,6 +129,22 @@ $("#search").addEventListener("input",()=>buildArchive(filterStudies()));
 $("#home").addEventListener("click",renderHome);
 $("#menu").addEventListener("click",()=>{const open=side.classList.toggle("open");$("#menu").setAttribute("aria-expanded",String(open))});
 function closeSidebar(){side.classList.remove("open");$("#menu").setAttribute("aria-expanded","false")}
+
+function openStudyVideo(study,videoUrl){
+  stopPlayback(true);
+  $("#videoTitle").textContent=`${study.title} · ${study.artist}`;
+  $("#studyVideo").src=videoUrl;
+  $("#videoModal").showModal();
+  $("#studyVideo").play().catch(()=>{});
+}
+function closeStudyVideo(){
+  if($("#videoModal").open)$("#videoModal").close();
+}
+$("#videoClose").addEventListener("click",closeStudyVideo);
+$("#videoModal").addEventListener("click",event=>{if(event.target===$("#videoModal"))closeStudyVideo()});
+$("#videoModal").addEventListener("close",()=>{
+  const video=$("#studyVideo");video.pause();video.removeAttribute("src");video.load();
+});
 
 
 function setNoteOpen(open){

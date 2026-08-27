@@ -71,6 +71,17 @@
     </div>
   </div>
 
+  <dialog id="videoModal" class="video-modal" aria-labelledby="videoTitle">
+    <div class="video-modal-head">
+      <div>
+        <small>DRAMA CLIP</small>
+        <h2 id="videoTitle">드라마 영상</h2>
+      </div>
+      <button id="videoClose" type="button" aria-label="영상 닫기">×</button>
+    </div>
+    <video id="studyVideo" controls playsinline preload="metadata"></video>
+  </dialog>
+
   <audio id="audio"></audio>
   <script src="data/studies.js"></script>
   <script src="app.js"></script>

@@ -5,6 +5,7 @@ window.STUDIES=[
     "title": "Moon Shadow",
     "artist": "Drama Dialogue · Ep.3",
     "youtube": "",
+    "video": "assets/video/ms-ep3.mp4",
     "description": "",
     "sentences": [
       {
@@ -498,6 +499,7 @@ window.STUDIES=[
     "title": "Moon Shadow",
     "artist": "Drama Dialogue · Ep.2",
     "youtube": "",
+    "video": "assets/video/ms-ep2.mp4",
     "description": "",
     "sentences": [
       {
@@ -925,6 +927,7 @@ window.STUDIES=[
     "title": "Moon Shadow",
     "artist": "Drama Dialogue · Ep.1",
     "youtube": "",
+    "video": "assets/video/ms-ep1.mp4",
     "description": "",
     "sentences": [
       {
