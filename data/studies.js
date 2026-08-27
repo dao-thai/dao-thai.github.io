@@ -5,7 +5,7 @@ window.STUDIES=[
     "title": "Moon Shadow",
     "artist": "Drama Dialogue · Ep.3",
     "youtube": "",
-    "description": "Drama Dialogue · Ep.3",
+    "description": "",
     "sentences": [
       {
         "id": "s1",
@@ -498,7 +498,7 @@ window.STUDIES=[
     "title": "Moon Shadow",
     "artist": "Drama Dialogue · Ep.2",
     "youtube": "",
-    "description": "Drama Dialogue · Ep.2",
+    "description": "",
     "sentences": [
       {
         "id": "s1",
@@ -925,7 +925,7 @@ window.STUDIES=[
     "title": "Moon Shadow",
     "artist": "Drama Dialogue · Ep.1",
     "youtube": "",
-    "description": "Drama Dialogue · Ep.1",
+    "description": "",
     "sentences": [
       {
         "id": "s1",

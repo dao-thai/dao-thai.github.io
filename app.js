@@ -34,6 +34,9 @@ function escapeHtml(value=""){
 function toneSvg(tone,klass=""){
   return `<svg class="${klass}" viewBox="0 0 42 18" role="img" aria-label="${TONE_LABELS[tone]}"><path d="${TONE_PATHS[tone]}"></path></svg>`;
 }
+function studyKind(study){
+  return study.type==="drama"||/drama dialogue/i.test(study.artist||"")?"drama":"song";
+}
 function renderHome(){
   stopPlayback(true); current=null; history.replaceState(null,"",location.pathname); buildArchive(filterStudies());
   view.innerHTML=`<article class="home"><section class="hero"><small>THAI PRONUNCIATION ARCHIVE</small><h1>태국어를 눈으로 보고,<br>귀로 반복해서 공부해요.</h1><p>태국어 원문, 실제 발음에 가까운 독음, 장모음, 음절별 성조, 자연스러운 해석을 한 화면에서 확인할 수 있어요.</p><button id="latest" type="button">최근 스터디 보기</button></section></article>`;
@@ -45,7 +48,8 @@ function buildArchive(list){
     const [yy,mm]=study.date.split("-");
     if(yy!==year){year=yy;month="";html+=`<div class="year">${yy}</div>`;}
     if(mm!==month){month=mm;html+=`<div class="month">${Number(mm)}월</div>`;}
-    html+=`<button class="arc ${current?.id===study.id?"active":""}" data-id="${study.id}" type="button">${study.date.slice(5).replace("-",".")} ${escapeHtml(study.title)}<br><small>${escapeHtml(study.artist)}</small></button>`;
+    const kind=studyKind(study),kindLabel=kind==="drama"?"D":"S",kindName=kind==="drama"?"드라마":"노래";
+    html+=`<button class="arc ${current?.id===study.id?"active":""}" data-id="${study.id}" type="button"><span class="arc-heading"><span class="kind-label ${kind}" aria-label="${kindName}" title="${kindName}">${kindLabel}</span><time datetime="${study.date}">${study.date.slice(5).replace("-",".")}</time><span class="arc-title">${escapeHtml(study.title)}</span></span><small>${escapeHtml(study.artist)}</small></button>`;
   });
   archive.innerHTML=html||"<p>검색 결과가 없어요.</p>";
   archive.querySelectorAll("[data-id]").forEach(button=>button.addEventListener("click",()=>selectStudy(studies.find(s=>s.id===button.dataset.id))));
