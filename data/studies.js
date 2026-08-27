@@ -1,678 +1,1913 @@
-window.STUDIES=[{
-"id": "",
-"date": "",
-"title": "",
-"artist": "",
-"youtube": "",
-"description": "",
-"sentences": [
-{
-"id": "s1",
-"thai": "ติดเธอไม่ไหว ติดฝนอยู่ด้วยกันก่อนได้ไหม",
-"audio": "",
-"natural": "너에게 빠져서 어쩔 수가 없어. 비에 갇힌 김에 우리 조금만 더 같이 있어도 될까?",
-"tokens": [
-{
-"meaning": "너에게 빠지다·너에게서 헤어나지 못하다",
-"syllables": [
-{
-"thai": "ติด",
-"reading": "띳",
-"tone": "low"
-},
-{
-"thai": "เธอ",
-"reading": "트ㅓ-",
-"tone": "mid"
-}
-]
-},
-{
-"meaning": "견딜 수 없다·어쩔 수 없다",
-"syllables": [
-{
-"thai": "ไม่",
-"reading": "마이-",
-"tone": "falling"
-},
-{
-"thai": "ไหว",
-"reading": "와이-",
-"tone": "rising"
-}
-]
-},
-{
-"meaning": "비 때문에 발이 묶이다",
-"syllables": [
-{
-"thai": "ติด",
-"reading": "띳",
-"tone": "low"
-},
-{
-"thai": "ฝน",
-"reading": "f폰",
-"tone": "rising"
-}
-]
-},
-{
-"meaning": "함께 있다",
-"syllables": [
-{
-"thai": "อยู่",
-"reading": "유-",
-"tone": "low"
-},
-{
-"thai": "ด้วย",
-"reading": "두아이-",
-"tone": "falling"
-},
-{
-"thai": "กัน",
-"reading": "깐",
-"tone": "mid"
-}
-]
-},
-{
-"meaning": "우선·조금 더 먼저",
-"syllables": [
-{
-"thai": "ก่อน",
-"reading": "꺼-ㄴ",
-"tone": "low"
-}
-]
-},
-{
-"meaning": "~해도 될까?",
-"syllables": [
-{
-"thai": "ได้",
-"reading": "다이-",
-"tone": "falling"
-},
-{
-"thai": "ไหม",
-"reading": "마이-",
-"tone": "rising"
-}
-]
-}
-],
-"studyNotes": [
-"ติด은 기본적으로 ‘붙다·걸리다·갇히다’라는 뜻인데 사람과 함께 쓰면 ‘빠지다·중독되다·정이 들다’라는 의미로도 쓰인다.",
-"ติดเธอ와 ติดฝน을 나란히 배치해 ‘너에게 빠지다’와 ‘비 때문에 발이 묶이다’를 이용한 말장난을 만든다.",
-"ไม่ไหว는 단순히 ‘못하다’보다 ‘더는 감당할 수 없다·어쩔 수 없다’라는 감정이 강하다.",
-"อยู่ด้วยกัน은 ‘함께 있다’, อยู่ด้วยกันก่อน은 ‘일단 조금 더 같이 있자’라는 느낌이다."
-]
-},
-{
-"id": "s2",
-"thai": "ถ้าเธอไม่รีบไป",
-"audio": "",
-"natural": "네가 급하게 가지 않아도 된다면.",
-"tokens": [
-{
-"meaning": "만약 ~라면",
-"syllables": [
-{
-"thai": "ถ้า",
-"reading": "타-",
-"tone": "falling"
-}
-]
-},
-{
-"meaning": "너",
-"syllables": [
-{
-"thai": "เธอ",
-"reading": "트ㅓ-",
-"tone": "mid"
-}
-]
-},
-{
-"meaning": "서두르지 않다",
-"syllables": [
-{
-"thai": "ไม่",
-"reading": "마이-",
-"tone": "falling"
-},
-{
-"thai": "รีบ",
-"reading": "리-ㅂ",
-"tone": "falling"
-}
-]
-},
-{
-"meaning": "가다",
-"syllables": [
-{
-"thai": "ไป",
-"reading": "빠이-",
-"tone": "mid"
-}
-]
-}
-],
-"studyNotes": [
-"ถ้า는 가장 일반적인 ‘만약 ~라면’ 조건 표현이다.",
-"รีบ + 동사는 ‘서둘러 ~하다’이며 ไม่รีบไป는 ‘급하게 갈 필요가 없다·서둘러 가지 않다’라는 뜻이다."
-]
-},
-{
-"id": "s3",
-"thai": "ฝนยังไม่จาง กลับไปเดี๋ยวไม่สบาย",
-"audio": "",
-"natural": "비가 아직 그치지 않았어. 지금 돌아가면 몸이 안 좋아질 수도 있어.",
-"tokens": [
-{
-"meaning": "비",
-"syllables": [
-{
-"thai": "ฝน",
-"reading": "f폰",
-"tone": "rising"
-}
-]
-},
-{
-"meaning": "아직 ~하지 않다",
-"syllables": [
-{
-"thai": "ยัง",
-"reading": "양",
-"tone": "mid"
-},
-{
-"thai": "ไม่",
-"reading": "마이-",
-"tone": "falling"
-}
-]
-},
-{
-"meaning": "옅어지다·약해지다",
-"syllables": [
-{
-"thai": "จาง",
-"reading": "짜-ㅇ",
-"tone": "mid"
-}
-]
-},
-{
-"meaning": "돌아가다",
-"syllables": [
-{
-"thai": "กลับ",
-"reading": "끌랍",
-"tone": "low"
-},
-{
-"thai": "ไป",
-"reading": "빠이-",
-"tone": "mid"
-}
-]
-},
-{
-"meaning": "그러다가는·곧",
-"syllables": [
-{
-"thai": "เดี๋ยว",
-"reading": "디아오-",
-"tone": "rising"
-}
-]
-},
-{
-"meaning": "몸이 안 좋다·아프다",
-"syllables": [
-{
-"thai": "ไม่",
-"reading": "마이-",
-"tone": "falling"
-},
-{
-"thai": "สะ",
-"reading": "싸",
-"tone": "low"
-},
-{
-"thai": "บาย",
-"reading": "바-이",
-"tone": "mid"
-}
-]
-}
-],
-"studyNotes": [
-"ยังไม่ + 동사·형용사는 ‘아직 ~하지 않다’라는 뜻이다.",
-"จาง은 색·연기·비 등이 ‘옅어지다, 약해지다’라는 뜻으로 여기서는 비가 아직 충분히 약해지지 않았다는 의미다.",
-"ไม่สบาย는 직역하면 ‘편안하지 않다’지만 실제로는 ‘몸이 안 좋다·아프다’라는 뜻으로 매우 자주 쓰인다.",
-"เดี๋ยว + 부정적인 결과는 ‘그러다가는 ~할 거야’라는 경고나 걱정의 느낌을 줄 수 있다."
-]
-},
-{
-"id": "s4",
-"thai": "อยู่ก่อนไหม",
-"audio": "",
-"natural": "조금만 더 있다 갈래?",
-"tokens": [
-{
-"meaning": "조금 더 머물다",
-"syllables": [
-{
-"thai": "อยู่",
-"reading": "유-",
-"tone": "low"
-},
-{
-"thai": "ก่อน",
-"reading": "꺼-ㄴ",
-"tone": "low"
-}
-]
-},
-{
-"meaning": "~할래?·~할까?",
-"syllables": [
-{
-"thai": "ไหม",
-"reading": "마이-",
-"tone": "rising"
-}
-]
-}
-],
-"studyNotes": [
-"อยู่ก่อน은 직역하면 ‘먼저 있다’이지만 상황에 따라 ‘조금 더 있다가 가다’라는 의미가 된다.",
-"ไหม를 붙이면 상대에게 부드럽게 제안하는 ‘~할래?’가 된다."
-]
-},
-{
-"id": "s5",
-"thai": "ติดเธอไม่ไหว ติดฝนอยู่ด้วยกันก่อนได้ไหม",
-"audio": "",
-"natural": "너에게 빠져서 어쩔 수가 없어. 비에 갇힌 김에 우리 조금만 더 같이 있어도 될까?",
-"tokens": [
-{
-"meaning": "너에게 빠지다",
-"syllables": [
-{
-"thai": "ติด",
-"reading": "띳",
-"tone": "low"
-},
-{
-"thai": "เธอ",
-"reading": "트ㅓ-",
-"tone": "mid"
-}
-]
-},
-{
-"meaning": "견딜 수 없다",
-"syllables": [
-{
-"thai": "ไม่",
-"reading": "마이-",
-"tone": "falling"
-},
-{
-"thai": "ไหว",
-"reading": "와이-",
-"tone": "rising"
-}
-]
-},
-{
-"meaning": "비 때문에 발이 묶이다",
-"syllables": [
-{
-"thai": "ติด",
-"reading": "띳",
-"tone": "low"
-},
-{
-"thai": "ฝน",
-"reading": "f폰",
-"tone": "rising"
-}
-]
-},
-{
-"meaning": "함께 있다",
-"syllables": [
-{
-"thai": "อยู่",
-"reading": "유-",
-"tone": "low"
-},
-{
-"thai": "ด้วย",
-"reading": "두아이-",
-"tone": "falling"
-},
-{
-"thai": "กัน",
-"reading": "깐",
-"tone": "mid"
-}
-]
-},
-{
-"meaning": "조금 더",
-"syllables": [
-{
-"thai": "ก่อน",
-"reading": "꺼-ㄴ",
-"tone": "low"
-}
-]
-},
-{
-"meaning": "~해도 될까?",
-"syllables": [
-{
-"thai": "ได้",
-"reading": "다이-",
-"tone": "falling"
-},
-{
-"thai": "ไหม",
-"reading": "마이-",
-"tone": "rising"
-}
-]
-}
-],
-"studyNotes": [
-"후렴의 핵심은 ติดเธอ와 ติดฝน의 이중적인 ติด 표현이다.",
-"한쪽은 ‘너에게 빠져 있다’, 다른 쪽은 ‘비 때문에 발이 묶여 있다’라는 뜻으로 연결된다."
-]
-},
-{
-"id": "s6",
-"thai": "ถ้าเธอไม่ว่าอะไร",
-"audio": "",
-"natural": "네가 괜찮다면.",
-"tokens": [
-{
-"meaning": "만약",
-"syllables": [
-{
-"thai": "ถ้า",
-"reading": "타-",
-"tone": "falling"
-}
-]
-},
-{
-"meaning": "너",
-"syllables": [
-{
-"thai": "เธอ",
-"reading": "트ㅓ-",
-"tone": "mid"
-}
-]
-},
-{
-"meaning": "괜찮다면·문제 삼지 않는다면",
-"syllables": [
-{
-"thai": "ไม่",
-"reading": "마이-",
-"tone": "falling"
-},
-{
-"thai": "ว่า",
-"reading": "와-",
-"tone": "falling"
-},
-{
-"thai": "อะ",
-"reading": "아",
-"tone": "low"
-},
-{
-"thai": "ไร",
-"reading": "라이-",
-"tone": "mid"
-}
-]
-}
-],
-"studyNotes": [
-"ไม่ว่าอะไร는 직역하면 ‘아무 말도 하지 않다’이지만 이 문맥에서는 ‘상관없다면·괜찮다면·개의치 않는다면’이라는 뜻이다.",
-"ถ้าเธอไม่ว่าอะไร는 상대의 허락이나 동의를 조심스럽게 확인하는 부드러운 표현이다."
-]
-},
-{
-"id": "s7",
-"thai": "ฝนยังไม่ซา รออีกแป๊บเราค่อยลา",
-"audio": "",
-"natural": "비가 아직 잦아들지 않았어. 조금만 더 기다렸다가 우리 그때 헤어지자.",
-"tokens": [
-{
-"meaning": "비",
-"syllables": [
-{
-"thai": "ฝน",
-"reading": "f폰",
-"tone": "rising"
-}
-]
-},
-{
-"meaning": "아직 ~하지 않다",
-"syllables": [
-{
-"thai": "ยัง",
-"reading": "양",
-"tone": "mid"
-},
-{
-"thai": "ไม่",
-"reading": "마이-",
-"tone": "falling"
-}
-]
-},
-{
-"meaning": "잦아들다·약해지다",
-"syllables": [
-{
-"thai": "ซา",
-"reading": "싸-",
-"tone": "mid"
-}
-]
-},
-{
-"meaning": "기다리다",
-"syllables": [
-{
-"thai": "รอ",
-"reading": "러-",
-"tone": "mid"
-}
-]
-},
-{
-"meaning": "조금 더",
-"syllables": [
-{
-"thai": "อีก",
-"reading": "이-ㄱ",
-"tone": "low"
-},
-{
-"thai": "แป๊บ",
-"reading": "빼-ㅂ",
-"tone": "high"
-}
-]
-},
-{
-"meaning": "우리",
-"syllables": [
-{
-"thai": "เรา",
-"reading": "라오-",
-"tone": "mid"
-}
-]
-},
-{
-"meaning": "그때 가서 ~하다",
-"syllables": [
-{
-"thai": "ค่อย",
-"reading": "커이-",
-"tone": "falling"
-}
-]
-},
-{
-"meaning": "헤어지다·작별하다",
-"syllables": [
-{
-"thai": "ลา",
-"reading": "라-",
-"tone": "mid"
-}
-]
-}
-],
-"studyNotes": [
-"ซา는 비·바람·통증·소란 등이 ‘잦아들다, 약해지다’라는 뜻이다.",
-"อีกแป๊บ은 ‘조금만 더, 잠깐만 더’라는 매우 일상적인 표현이다.",
-"ค่อย + 동사는 ‘먼저 다른 일을 하고 나서 그때 ~하다’라는 순서를 나타낸다.",
-"ลา는 ‘작별하다’이며 เราค่อยลา는 ‘우리 조금 있다가 헤어지자’라는 서정적인 표현이다."
-]
-},
-{
-"id": "s8",
-"thai": "จะได้ไหม",
-"audio": "",
-"natural": "그래도 될까?",
-"tokens": [
-{
-"meaning": "~해도 될까?",
-"syllables": [
-{
-"thai": "จะ",
-"reading": "짜",
-"tone": "low"
-},
-{
-"thai": "ได้",
-"reading": "다이-",
-"tone": "falling"
-},
-{
-"thai": "ไหม",
-"reading": "마이-",
-"tone": "rising"
-}
-]
-}
-],
-"studyNotes": [
-"จะได้ไหม는 앞에서 제안한 내용을 받아 ‘그렇게 해도 될까?·가능할까?’라고 다시 묻는 표현이다.",
-"단독으로 쓰이면 앞 문맥 전체를 가리키므로 한국어에서는 ‘그래도 될까?’가 자연스럽다."
-]
-},
-{
-"id": "s9",
-"thai": "ติดเธอเข้าแล้ว ไม่อยากให้ไป",
-"audio": "",
-"natural": "어느새 너에게 푹 빠져 버렸어. 네가 가지 않았으면 좋겠어.",
-"tokens": [
-{
-"meaning": "너에게 빠져 버리다",
-"syllables": [
-{
-"thai": "ติด",
-"reading": "띳",
-"tone": "low"
-},
-{
-"thai": "เธอ",
-"reading": "트ㅓ-",
-"tone": "mid"
-}
-]
-},
-{
-"meaning": "이미 그렇게 되어 버리다",
-"syllables": [
-{
-"thai": "เข้า",
-"reading": "카오-",
-"tone": "falling"
-},
-{
-"thai": "แล้ว",
-"reading": "래오-",
-"tone": "high"
-}
-]
-},
-{
-"meaning": "~하고 싶지 않다",
-"syllables": [
-{
-"thai": "ไม่",
-"reading": "마이-",
-"tone": "falling"
-},
-{
-"thai": "อยาก",
-"reading": "야-ㄱ",
-"tone": "low"
-}
-]
-},
-{
-"meaning": "~하게 하다",
-"syllables": [
-{
-"thai": "ให้",
-"reading": "하이-",
-"tone": "falling"
-}
-]
-},
-{
-"meaning": "가다",
-"syllables": [
-{
-"thai": "ไป",
-"reading": "빠이-",
-"tone": "mid"
-}
-]
-}
-],
-"studyNotes": [
-"ติดเธอเข้าแล้ว는 단순한 ติดเธอ보다 ‘어느새 너에게 빠져 버렸다’처럼 이미 감정이 깊어진 상태를 강조한다.",
-"เข้าแล้ว는 어떤 상태에 들어가 이미 그렇게 되어 버렸다는 변화·완료의 느낌을 준다.",
-"ไม่อยากให้ + 사람 + 동사는 ‘그 사람이 ~하지 않았으면 좋겠다’라는 표현이다.",
-"ไม่อยากให้ไป는 문맥상 ‘네가 가지 않았으면 좋겠어’라는 뜻이다."
-]
-}
-]
+window.STUDIES=[
+  {
+    "id": "2026-09-03-moon-shadow-ep3",
+    "date": "2026-09-03",
+    "title": "Moon Shadow",
+    "artist": "Drama Dialogue · Ep.3",
+    "youtube": "",
+    "description": "Drama Dialogue · Ep.3",
+    "sentences": [
+      {
+        "id": "s1",
+        "speaker": "🐈‍⬛",
+        "thai": "ยูรู้ป่ะ ตอนแรกไอนึกว่ายูชอบผู้ชายซะอีก",
+        "audio": "",
+        "natural": "너 그거 알아? 처음에는 네가 남자를 좋아하는 줄 알았어.",
+        "tokens": [
+          {
+            "meaning": "너",
+            "syllables": [
+              {
+                "thai": "ยู",
+                "reading": "유-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "알아?",
+            "syllables": [
+              {
+                "thai": "รู้",
+                "reading": "루-",
+                "tone": "high"
+              },
+              {
+                "thai": "ป่ะ",
+                "reading": "빠",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "처음에는",
+            "syllables": [
+              {
+                "thai": "ตอน",
+                "reading": "떠-ㄴ",
+                "tone": "mid"
+              },
+              {
+                "thai": "แรก",
+                "reading": "래-ㄱ",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "나",
+            "syllables": [
+              {
+                "thai": "ไอ",
+                "reading": "아이-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "~라고 생각하다·~인 줄 알다",
+            "syllables": [
+              {
+                "thai": "นึก",
+                "reading": "느ㄱ",
+                "tone": "high"
+              },
+              {
+                "thai": "ว่า",
+                "reading": "와-",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "너",
+            "syllables": [
+              {
+                "thai": "ยู",
+                "reading": "유-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "좋아하다",
+            "syllables": [
+              {
+                "thai": "ชอบ",
+                "reading": "처-ㅂ",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "남자",
+            "syllables": [
+              {
+                "thai": "ผู้",
+                "reading": "푸-",
+                "tone": "falling"
+              },
+              {
+                "thai": "ชาย",
+                "reading": "차-이",
+                "tone": "rising"
+              }
+            ]
+          },
+          {
+            "meaning": "~인 줄 알았는데·의외로",
+            "syllables": [
+              {
+                "thai": "ซะ",
+                "reading": "싸",
+                "tone": "high"
+              },
+              {
+                "thai": "อีก",
+                "reading": "이-ㄱ",
+                "tone": "low"
+              }
+            ]
+          }
+        ],
+        "studyNotes": [
+          "ไอ / ยู는 영어 I / you에서 온 표현으로, 친한 사이에서 장난스럽거나 현대적인 말투로 쓰인다.",
+          "รู้ป่ะ는 รู้ไหม보다 훨씬 구어적인 ‘알아?·알고 있어?’이다. ป่ะ는 대화에서 자주 들리는 축약형이다.",
+          "นึกว่า는 ‘~라고 생각했다, ~인 줄 알았다’라는 아주 자주 쓰이는 표현이다.",
+          "ซะอีก은 자신의 예상과 실제가 달랐음을 나타내며 ‘~인 줄 알았는데 말이야’ 정도의 뉘앙스를 만든다."
+        ]
+      },
+      {
+        "id": "s2",
+        "speaker": "🦊",
+        "thai": "ก็เพราะยูนั่นแหล่ะ ไอถึงรู้ตัวว่าไอชอบผู้หญิง",
+        "audio": "",
+        "natural": "바로 너 때문이야. 너 덕분에 내가 여자를 좋아한다는 걸 깨달았어.",
+        "tokens": [
+          {
+            "meaning": "바로 ~때문이다",
+            "syllables": [
+              {
+                "thai": "ก็",
+                "reading": "꺼",
+                "tone": "falling"
+              },
+              {
+                "thai": "เพราะ",
+                "reading": "프러",
+                "tone": "high"
+              }
+            ]
+          },
+          {
+            "meaning": "너",
+            "syllables": [
+              {
+                "thai": "ยู",
+                "reading": "유-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "바로 그거야·바로 너야",
+            "syllables": [
+              {
+                "thai": "นั่น",
+                "reading": "난",
+                "tone": "falling"
+              },
+              {
+                "thai": "แหล่ะ",
+                "reading": "래",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "나",
+            "syllables": [
+              {
+                "thai": "ไอ",
+                "reading": "아이-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "그래서 비로소",
+            "syllables": [
+              {
+                "thai": "ถึง",
+                "reading": "트ㅡㅇ",
+                "tone": "rising"
+              }
+            ]
+          },
+          {
+            "meaning": "스스로 깨닫다",
+            "syllables": [
+              {
+                "thai": "รู้",
+                "reading": "루-",
+                "tone": "high"
+              },
+              {
+                "thai": "ตัว",
+                "reading": "뚜아-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "~라는 것을",
+            "syllables": [
+              {
+                "thai": "ว่า",
+                "reading": "와-",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "내가",
+            "syllables": [
+              {
+                "thai": "ไอ",
+                "reading": "아이-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "좋아하다",
+            "syllables": [
+              {
+                "thai": "ชอบ",
+                "reading": "처-ㅂ",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "여자",
+            "syllables": [
+              {
+                "thai": "ผู้",
+                "reading": "푸-",
+                "tone": "falling"
+              },
+              {
+                "thai": "หญิง",
+                "reading": "잉",
+                "tone": "rising"
+              }
+            ]
+          }
+        ],
+        "studyNotes": [
+          "นั่นแหละ는 ‘바로 그거야·바로 그 사람이야’처럼 대상을 강하게 특정할 때 쓴다. 대사에는 นั่นแหล่ะ로 표기되어 있다.",
+          "เพราะ…ถึง…는 ‘~이기 때문에 그래서 …하다’라는 원인-결과 구조다.",
+          "รู้ตัว는 자기 자신의 상태나 감정을 ‘깨닫다·자각하다’라는 뜻이다.",
+          "รู้ว่า는 단순히 사실을 ‘알다’, รู้ตัวว่า는 자신에 관한 사실을 ‘스스로 깨닫다’라는 차이가 있다."
+        ]
+      },
+      {
+        "id": "s3",
+        "speaker": "🐈‍⬛",
+        "thai": "แล้วถ้าวันหนึ่งไอไปชอบผู้ชายล่ะ",
+        "audio": "",
+        "natural": "그럼 만약 어느 날 내가 남자를 좋아하게 된다면?",
+        "tokens": [
+          {
+            "meaning": "그럼·그러면",
+            "syllables": [
+              {
+                "thai": "แล้ว",
+                "reading": "래오-",
+                "tone": "high"
+              }
+            ]
+          },
+          {
+            "meaning": "만약",
+            "syllables": [
+              {
+                "thai": "ถ้า",
+                "reading": "타-",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "어느 날",
+            "syllables": [
+              {
+                "thai": "วัน",
+                "reading": "완",
+                "tone": "mid"
+              },
+              {
+                "thai": "หนึ่ง",
+                "reading": "느ㅡㅇ",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "나",
+            "syllables": [
+              {
+                "thai": "ไอ",
+                "reading": "아이-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "~하게 되다",
+            "syllables": [
+              {
+                "thai": "ไป",
+                "reading": "빠이-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "좋아하다",
+            "syllables": [
+              {
+                "thai": "ชอบ",
+                "reading": "처-ㅂ",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "남자",
+            "syllables": [
+              {
+                "thai": "ผู้",
+                "reading": "푸-",
+                "tone": "falling"
+              },
+              {
+                "thai": "ชาย",
+                "reading": "차-이",
+                "tone": "rising"
+              }
+            ]
+          },
+          {
+            "meaning": "그럼?·그 경우엔?",
+            "syllables": [
+              {
+                "thai": "ล่ะ",
+                "reading": "라",
+                "tone": "falling"
+              }
+            ]
+          }
+        ],
+        "studyNotes": [
+          "วันหนึ่ง는 ‘어느 날·언젠가’를 뜻한다.",
+          "ไป + 동사가 항상 ‘가서 ~하다’인 것은 아니다. 여기서는 상태 변화의 느낌이 더해져 ‘~하게 되다’ 정도로 이해하면 자연스럽다.",
+          "문장 끝의 ล่ะ는 앞서 말한 조건을 제시한 뒤 ‘그럼 어떻게 할 거야?·그 경우에는?’이라는 반응을 요구한다."
+        ]
+      },
+      {
+        "id": "s4",
+        "speaker": "🦊",
+        "thai": "ก็ไม่เป็นไร ขอแค่ตอนนี้ยูชอบไอก็พอ",
+        "audio": "",
+        "natural": "그래도 괜찮아. 지금 네가 나를 좋아하는 것만으로 충분해.",
+        "tokens": [
+          {
+            "meaning": "그래도 괜찮다",
+            "syllables": [
+              {
+                "thai": "ก็",
+                "reading": "꺼",
+                "tone": "falling"
+              },
+              {
+                "thai": "ไม่",
+                "reading": "마이-",
+                "tone": "falling"
+              },
+              {
+                "thai": "เป็น",
+                "reading": "뻰",
+                "tone": "mid"
+              },
+              {
+                "thai": "ไร",
+                "reading": "라이-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "그저 ~만",
+            "syllables": [
+              {
+                "thai": "ขอ",
+                "reading": "커-",
+                "tone": "rising"
+              },
+              {
+                "thai": "แค่",
+                "reading": "캐-",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "지금",
+            "syllables": [
+              {
+                "thai": "ตอน",
+                "reading": "떠-ㄴ",
+                "tone": "mid"
+              },
+              {
+                "thai": "นี้",
+                "reading": "니-",
+                "tone": "high"
+              }
+            ]
+          },
+          {
+            "meaning": "너",
+            "syllables": [
+              {
+                "thai": "ยู",
+                "reading": "유-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "좋아하다",
+            "syllables": [
+              {
+                "thai": "ชอบ",
+                "reading": "처-ㅂ",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "나",
+            "syllables": [
+              {
+                "thai": "ไอ",
+                "reading": "아이-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "~이면 충분하다",
+            "syllables": [
+              {
+                "thai": "ก็",
+                "reading": "꺼",
+                "tone": "falling"
+              },
+              {
+                "thai": "พอ",
+                "reading": "퍼-",
+                "tone": "mid"
+              }
+            ]
+          }
+        ],
+        "studyNotes": [
+          "ไม่เป็นไร는 ‘괜찮아·문제없어’라는 매우 자주 쓰이는 표현이다.",
+          "ขอแค่…ก็พอ는 꼭 외워둘 만한 패턴으로 ‘그저 ~하기만 하면 충분하다·~만 있으면 된다’라는 뜻이다.",
+          "ตอนนี้는 ‘지금, 현재’를 뜻하며 미래가 아니라 지금의 감정을 중요하게 여기는 대사의 핵심 표현이다."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-08-27-moon-shadow-ep2",
+    "date": "2026-08-27",
+    "title": "Moon Shadow",
+    "artist": "Drama Dialogue · Ep.2",
+    "youtube": "",
+    "description": "Drama Dialogue · Ep.2",
+    "sentences": [
+      {
+        "id": "s1",
+        "speaker": "🐈‍⬛",
+        "thai": "การจูบ ก็เหมือนการสูบบุหรี่",
+        "audio": "",
+        "natural": "키스는 담배를 피우는 것과도 같아.",
+        "tokens": [
+          {
+            "meaning": "키스하는 것",
+            "syllables": [
+              {
+                "thai": "การ",
+                "reading": "까-ㄴ",
+                "tone": "mid"
+              },
+              {
+                "thai": "จูบ",
+                "reading": "쭈-ㅂ",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "~와 같다",
+            "syllables": [
+              {
+                "thai": "ก็",
+                "reading": "꺼",
+                "tone": "falling"
+              },
+              {
+                "thai": "เหมือน",
+                "reading": "므ㅓ-ㄴ",
+                "tone": "rising"
+              }
+            ]
+          },
+          {
+            "meaning": "담배를 피우는 것",
+            "syllables": [
+              {
+                "thai": "การ",
+                "reading": "까-ㄴ",
+                "tone": "mid"
+              },
+              {
+                "thai": "สูบ",
+                "reading": "쑤-ㅂ",
+                "tone": "low"
+              },
+              {
+                "thai": "บุ",
+                "reading": "부",
+                "tone": "low"
+              },
+              {
+                "thai": "หรี่",
+                "reading": "리-",
+                "tone": "low"
+              }
+            ]
+          }
+        ],
+        "studyNotes": [
+          "การ + 동사는 행동을 명사화해 ‘~하는 것’을 만든다. การจูบ = 키스하는 것, การสูบ = 피우는 것.",
+          "เหมือน은 ‘같다·닮다’이며 A เหมือน B는 ‘A는 B와 같다’이다.",
+          "สูบบุหรี่는 ‘담배를 피우다’라는 고정 표현이다."
+        ]
+      },
+      {
+        "id": "s2",
+        "speaker": "🐈‍⬛",
+        "thai": "ที่จริง ไอเลิกสูบไปนานแล้วนะ",
+        "audio": "",
+        "natural": "사실 나 담배 끊은 지 오래됐어.",
+        "tokens": [
+          {
+            "meaning": "사실은",
+            "syllables": [
+              {
+                "thai": "ที่",
+                "reading": "티-",
+                "tone": "falling"
+              },
+              {
+                "thai": "จริง",
+                "reading": "찡",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "나",
+            "syllables": [
+              {
+                "thai": "ไอ",
+                "reading": "아이-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "피우는 것을 끊다",
+            "syllables": [
+              {
+                "thai": "เลิก",
+                "reading": "르ㅓ-ㄱ",
+                "tone": "falling"
+              },
+              {
+                "thai": "สูบ",
+                "reading": "쑤-ㅂ",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "오래전에 이미",
+            "syllables": [
+              {
+                "thai": "ไป",
+                "reading": "빠이-",
+                "tone": "mid"
+              },
+              {
+                "thai": "นาน",
+                "reading": "나-ㄴ",
+                "tone": "mid"
+              },
+              {
+                "thai": "แล้ว",
+                "reading": "래오-",
+                "tone": "high"
+              }
+            ]
+          },
+          {
+            "meaning": "말투를 부드럽게 강조",
+            "syllables": [
+              {
+                "thai": "นะ",
+                "reading": "나",
+                "tone": "high"
+              }
+            ]
+          }
+        ],
+        "studyNotes": [
+          "ที่จริง은 ‘사실은·실은’이라는 회화 표현이다.",
+          "เลิก + 동사는 ‘~하는 것을 그만두다·끊다’이다. เลิกสูบ는 문맥상 ‘담배를 끊다’다.",
+          "นานแล้ว는 ‘오래됐다’, 동작과 함께 쓰면 ‘~한 지 오래됐다’라는 의미가 된다.",
+          "문장 끝의 นะ는 상대에게 정보를 부드럽게 알려주거나 강조하는 느낌을 준다."
+        ]
+      },
+      {
+        "id": "s3",
+        "speaker": "🐈‍⬛",
+        "thai": "แต่พอดีกลับมาเห็นมันอีกครั้ง",
+        "audio": "",
+        "natural": "그런데 마침 그걸 다시 보게 됐어.",
+        "tokens": [
+          {
+            "meaning": "하지만·그런데",
+            "syllables": [
+              {
+                "thai": "แต่",
+                "reading": "때-",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "마침·공교롭게",
+            "syllables": [
+              {
+                "thai": "พอ",
+                "reading": "퍼-",
+                "tone": "mid"
+              },
+              {
+                "thai": "ดี",
+                "reading": "디-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "다시 돌아와 ~하다",
+            "syllables": [
+              {
+                "thai": "กลับ",
+                "reading": "끌랍",
+                "tone": "low"
+              },
+              {
+                "thai": "มา",
+                "reading": "마-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "보다",
+            "syllables": [
+              {
+                "thai": "เห็น",
+                "reading": "헨",
+                "tone": "rising"
+              }
+            ]
+          },
+          {
+            "meaning": "그것",
+            "syllables": [
+              {
+                "thai": "มัน",
+                "reading": "만",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "다시 한 번",
+            "syllables": [
+              {
+                "thai": "อีก",
+                "reading": "이-ㄱ",
+                "tone": "low"
+              },
+              {
+                "thai": "ครั้ง",
+                "reading": "크랑",
+                "tone": "high"
+              }
+            ]
+          }
+        ],
+        "studyNotes": [
+          "พอดี는 문맥에 따라 ‘딱 맞다’뿐 아니라 ‘마침·공교롭게’라는 뜻으로 매우 자주 쓰인다.",
+          "กลับมา + 동사는 ‘다시 돌아와 ~하다’, 넓게는 ‘다시 ~하게 되다’라는 의미로도 쓰인다.",
+          "อีกครั้ง은 ‘다시 한 번’이라는 표현이다."
+        ]
+      },
+      {
+        "id": "s4",
+        "speaker": "🐈‍⬛",
+        "thai": "ไอกลับรู้สึกตื่นเต้นมากกว่าตอนสูบครั้งแรก",
+        "audio": "",
+        "natural": "오히려 처음 담배를 피웠을 때보다 더 설레더라.",
+        "tokens": [
+          {
+            "meaning": "나는 오히려",
+            "syllables": [
+              {
+                "thai": "ไอ",
+                "reading": "아이-",
+                "tone": "mid"
+              },
+              {
+                "thai": "กลับ",
+                "reading": "끌랍",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "느끼다",
+            "syllables": [
+              {
+                "thai": "รู้",
+                "reading": "루-",
+                "tone": "high"
+              },
+              {
+                "thai": "สึก",
+                "reading": "쓰ㄱ",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "설레다·흥분되다",
+            "syllables": [
+              {
+                "thai": "ตื่น",
+                "reading": "뜨ㅡ-ㄴ",
+                "tone": "low"
+              },
+              {
+                "thai": "เต้น",
+                "reading": "뗀",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "~보다 더",
+            "syllables": [
+              {
+                "thai": "มาก",
+                "reading": "마-ㄱ",
+                "tone": "falling"
+              },
+              {
+                "thai": "กว่า",
+                "reading": "꽈-",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "~했을 때",
+            "syllables": [
+              {
+                "thai": "ตอน",
+                "reading": "떠-ㄴ",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "피우다",
+            "syllables": [
+              {
+                "thai": "สูบ",
+                "reading": "쑤-ㅂ",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "처음·첫 번째",
+            "syllables": [
+              {
+                "thai": "ครั้ง",
+                "reading": "크랑",
+                "tone": "high"
+              },
+              {
+                "thai": "แรก",
+                "reading": "래-ㄱ",
+                "tone": "falling"
+              }
+            ]
+          }
+        ],
+        "studyNotes": [
+          "กลับ이 ‘돌아가다’가 아니라 앞의 예상과 반대되는 결과를 나타내면 ‘오히려’라는 뜻이 된다.",
+          "รู้สึก + 형용사는 ‘~하게 느끼다’이다.",
+          "ตื่นเต้น은 상황에 따라 ‘설레다·흥분하다·긴장되다’ 모두 가능하다. 여기서는 키스를 비유하는 문맥이므로 ‘설레다’가 자연스럽다.",
+          "มากกว่า는 ‘~보다 더’, ครั้งแรก은 ‘처음·첫 번째’이다."
+        ]
+      },
+      {
+        "id": "s5",
+        "speaker": "🐈‍⬛",
+        "thai": "ยูรู้สึกเหมือนไอมั้ย",
+        "audio": "",
+        "natural": "너도 나랑 똑같이 느껴?",
+        "tokens": [
+          {
+            "meaning": "너",
+            "syllables": [
+              {
+                "thai": "ยู",
+                "reading": "유-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "느끼다",
+            "syllables": [
+              {
+                "thai": "รู้",
+                "reading": "루-",
+                "tone": "high"
+              },
+              {
+                "thai": "สึก",
+                "reading": "쓰ㄱ",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "나와 똑같이",
+            "syllables": [
+              {
+                "thai": "เหมือน",
+                "reading": "므ㅓ-ㄴ",
+                "tone": "rising"
+              },
+              {
+                "thai": "ไอ",
+                "reading": "아이-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "~니?",
+            "syllables": [
+              {
+                "thai": "มั้ย",
+                "reading": "마이-",
+                "tone": "high"
+              }
+            ]
+          }
+        ],
+        "studyNotes": [
+          "เหมือน + 사람은 ‘~와 같다’, รู้สึกเหมือน…은 ‘~와 똑같이 느끼다’라는 의미다.",
+          "มั้ย는 ไหม의 매우 흔한 구어체 표기다.",
+          "ยูรู้สึกเหมือนไอมั้ย는 직역하면 ‘너도 나처럼 느껴?’이며 상대의 감정을 확인하는 자연스러운 회화 문장이다."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-08-20-moon-shadow-ep1",
+    "date": "2026-08-20",
+    "title": "Moon Shadow",
+    "artist": "Drama Dialogue · Ep.1",
+    "youtube": "",
+    "description": "Drama Dialogue · Ep.1",
+    "sentences": [
+      {
+        "id": "s1",
+        "speaker": "🐈‍⬛",
+        "thai": "มีอะไรรึเปล่าคะ",
+        "audio": "",
+        "natural": "무슨 일 있어요?",
+        "tokens": [
+          {
+            "meaning": "무슨 일이 있다",
+            "syllables": [
+              {
+                "thai": "มี",
+                "reading": "미-",
+                "tone": "mid"
+              },
+              {
+                "thai": "อะ",
+                "reading": "아",
+                "tone": "low"
+              },
+              {
+                "thai": "ไร",
+                "reading": "라이-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "~인가요?·혹시?",
+            "syllables": [
+              {
+                "thai": "รึ",
+                "reading": "르",
+                "tone": "high"
+              },
+              {
+                "thai": "เปล่า",
+                "reading": "쁠라오-",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "여성 정중어",
+            "syllables": [
+              {
+                "thai": "คะ",
+                "reading": "카",
+                "tone": "high"
+              }
+            ]
+          }
+        ],
+        "studyNotes": [
+          "มีอะไร는 직역하면 ‘뭔가 있나요?’이며 상황에 따라 ‘무슨 일이야?·왜?’로 자연스럽게 번역된다.",
+          "รึเปล่า는 หรือเปล่า가 회화에서 줄어든 형태로 ‘~인가요?·~인지 아닌지’를 묻는다.",
+          "질문문 끝에서는 여성 화자가 보통 คะ를 사용한다."
+        ]
+      },
+      {
+        "id": "s2",
+        "speaker": "🐶",
+        "thai": "พี่น่ารักนะคะ",
+        "audio": "",
+        "natural": "언니 귀여우시네요.",
+        "tokens": [
+          {
+            "meaning": "손윗사람·언니",
+            "syllables": [
+              {
+                "thai": "พี่",
+                "reading": "피-",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "귀엽다",
+            "syllables": [
+              {
+                "thai": "น่า",
+                "reading": "나-",
+                "tone": "falling"
+              },
+              {
+                "thai": "รัก",
+                "reading": "락",
+                "tone": "high"
+              }
+            ]
+          },
+          {
+            "meaning": "부드러운 강조",
+            "syllables": [
+              {
+                "thai": "นะ",
+                "reading": "나",
+                "tone": "high"
+              }
+            ]
+          },
+          {
+            "meaning": "여성 정중어",
+            "syllables": [
+              {
+                "thai": "คะ",
+                "reading": "카",
+                "tone": "high"
+              }
+            ]
+          }
+        ],
+        "studyNotes": [
+          "พี่는 실제 가족의 언니·오빠뿐 아니라 자신보다 나이가 많거나 선배인 사람을 부를 때도 쓴다.",
+          "น่ารัก은 ‘귀엽다·사랑스럽다’라는 매우 자주 쓰이는 표현이다.",
+          "นะคะ는 말을 부드럽게 만들면서 친근함과 예의를 함께 표현한다."
+        ]
+      },
+      {
+        "id": "s3",
+        "speaker": "🐈‍⬛",
+        "thai": "นี่จะจีบเหรอ",
+        "audio": "",
+        "natural": "지금 나 꼬시는 거야?",
+        "tokens": [
+          {
+            "meaning": "이거·지금 이 상황",
+            "syllables": [
+              {
+                "thai": "นี่",
+                "reading": "니-",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "~하려는 거야",
+            "syllables": [
+              {
+                "thai": "จะ",
+                "reading": "짜",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "꼬시다·작업 걸다·구애하다",
+            "syllables": [
+              {
+                "thai": "จีบ",
+                "reading": "찌-ㅂ",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "~야?·그래?",
+            "syllables": [
+              {
+                "thai": "เหรอ",
+                "reading": "러ㅓ-",
+                "tone": "rising"
+              }
+            ]
+          }
+        ],
+        "studyNotes": [
+          "จีบ는 연애 목적으로 상대에게 다가가는 ‘꼬시다·작업 걸다·구애하다’에 해당한다.",
+          "นี่จะ…เหรอ는 상황을 보고 놀리거나 의심하며 ‘지금 ~하려는 거야?’라고 묻는 구어체 패턴이다.",
+          "เหรอ는 หรือ의 회화형으로 놀람·확인·의문을 나타낸다."
+        ]
+      },
+      {
+        "id": "s4",
+        "speaker": "🐶",
+        "thai": "นี่ชมค่ะ",
+        "audio": "",
+        "natural": "칭찬한 건데요.",
+        "tokens": [
+          {
+            "meaning": "이건·지금 한 말은",
+            "syllables": [
+              {
+                "thai": "นี่",
+                "reading": "니-",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "칭찬하다",
+            "syllables": [
+              {
+                "thai": "ชม",
+                "reading": "촘",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "여성 정중어",
+            "syllables": [
+              {
+                "thai": "ค่ะ",
+                "reading": "카",
+                "tone": "falling"
+              }
+            ]
+          }
+        ],
+        "studyNotes": [
+          "ชม은 ‘칭찬하다’라는 뜻이다.",
+          "นี่ชมค่ะ는 주어와 목적어가 생략된 매우 회화적인 문장으로 ‘(꼬신 게 아니라) 칭찬한 거예요’라는 뜻이다.",
+          "앞의 จีบ와 대비되어 장난스러운 대화가 된다."
+        ]
+      },
+      {
+        "id": "s5",
+        "speaker": "🐈‍⬛",
+        "thai": "แต๊งกิ้วนะ เธอก็น่ารักเหมือนกัน",
+        "audio": "",
+        "natural": "땡큐. 너도 귀여워.",
+        "tokens": [
+          {
+            "meaning": "고마워·Thank you",
+            "syllables": [
+              {
+                "thai": "แต๊ง",
+                "reading": "땡",
+                "tone": "high"
+              },
+              {
+                "thai": "กิ้ว",
+                "reading": "끼우",
+                "tone": "high"
+              }
+            ]
+          },
+          {
+            "meaning": "부드러운 말끝",
+            "syllables": [
+              {
+                "thai": "นะ",
+                "reading": "나",
+                "tone": "high"
+              }
+            ]
+          },
+          {
+            "meaning": "너",
+            "syllables": [
+              {
+                "thai": "เธอ",
+                "reading": "트ㅓ-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "너도",
+            "syllables": [
+              {
+                "thai": "ก็",
+                "reading": "꺼",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "귀엽다",
+            "syllables": [
+              {
+                "thai": "น่า",
+                "reading": "나-",
+                "tone": "falling"
+              },
+              {
+                "thai": "รัก",
+                "reading": "락",
+                "tone": "high"
+              }
+            ]
+          },
+          {
+            "meaning": "~도 마찬가지로",
+            "syllables": [
+              {
+                "thai": "เหมือน",
+                "reading": "므ㅓ-ㄴ",
+                "tone": "rising"
+              },
+              {
+                "thai": "กัน",
+                "reading": "깐",
+                "tone": "mid"
+              }
+            ]
+          }
+        ],
+        "studyNotes": [
+          "แต๊งกิ้ว는 영어 Thank you를 태국 문자로 옮긴 매우 캐주얼한 표현이다.",
+          "A ก็…เหมือนกัน은 ‘A도 역시 ~하다’라는 회화에서 아주 유용한 패턴이다.",
+          "เธอก็น่ารักเหมือนกัน은 직역하면 ‘너도 마찬가지로 귀여워’이며 자연스럽게 ‘너도 귀여워’다."
+        ]
+      }
+    ]
+  },{
+  "id": "2026-08-20-tid-fon",
+  "date": "2026-08-20",
+  "title": "ติดฝน (rain)",
+  "artist": "",
+  "youtube": "https://youtu.be/AfNWXNkpO7A?si=u1FZSiuBF-l2zyxK&t=64",
+  "description": "학습 구간 1:05–1:41",
+  "sentences": [
+    {
+      "id": "s1",
+      "thai": "ติดเธอไม่ไหว ติดฝนอยู่ด้วยกันก่อนได้ไหม",
+      "audio": "",
+      "natural": "너에게 빠져서 어쩔 수가 없어. 비에 갇힌 김에 우리 조금만 더 같이 있어도 될까?",
+      "tokens": [
+        {
+          "meaning": "너에게 빠지다·너에게서 헤어나지 못하다",
+          "syllables": [
+            {
+              "thai": "ติด",
+              "reading": "띳",
+              "tone": "low"
+            },
+            {
+              "thai": "เธอ",
+              "reading": "트ㅓ-",
+              "tone": "mid"
+            }
+          ]
+        },
+        {
+          "meaning": "견딜 수 없다·어쩔 수 없다",
+          "syllables": [
+            {
+              "thai": "ไม่",
+              "reading": "마이-",
+              "tone": "falling"
+            },
+            {
+              "thai": "ไหว",
+              "reading": "와이-",
+              "tone": "rising"
+            }
+          ]
+        },
+        {
+          "meaning": "비 때문에 발이 묶이다",
+          "syllables": [
+            {
+              "thai": "ติด",
+              "reading": "띳",
+              "tone": "low"
+            },
+            {
+              "thai": "ฝน",
+              "reading": "f폰",
+              "tone": "rising"
+            }
+          ]
+        },
+        {
+          "meaning": "함께 있다",
+          "syllables": [
+            {
+              "thai": "อยู่",
+              "reading": "유-",
+              "tone": "low"
+            },
+            {
+              "thai": "ด้วย",
+              "reading": "두아이-",
+              "tone": "falling"
+            },
+            {
+              "thai": "กัน",
+              "reading": "깐",
+              "tone": "mid"
+            }
+          ]
+        },
+        {
+          "meaning": "일단·조금 더",
+          "syllables": [
+            {
+              "thai": "ก่อน",
+              "reading": "꺼-ㄴ",
+              "tone": "low"
+            }
+          ]
+        },
+        {
+          "meaning": "~해도 될까?",
+          "syllables": [
+            {
+              "thai": "ได้",
+              "reading": "다이-",
+              "tone": "falling"
+            },
+            {
+              "thai": "ไหม",
+              "reading": "마이-",
+              "tone": "rising"
+            }
+          ]
+        }
+      ],
+      "studyNotes": [
+        "ติด은 ‘붙다·걸리다·갇히다’라는 기본 의미에서 사람에게 ‘빠지다·정들다’라는 의미로도 확장된다.",
+        "ติดเธอ와 ติดฝน을 나란히 사용해 ‘너에게 빠지다’와 ‘비 때문에 발이 묶이다’라는 두 의미를 이용한 말장난을 만든다.",
+        "ไม่ไหว는 단순한 ‘못하다’보다 ‘더는 감당하기 어렵다·못 견디겠다’라는 느낌이 강하다.",
+        "อยู่ด้วยกันก่อน은 상황에 따라 ‘일단 조금만 더 같이 있자’라는 부드러운 제안이 된다."
+      ]
+    },
+    {
+      "id": "s2",
+      "thai": "ถ้าเธอไม่รีบไป",
+      "audio": "",
+      "natural": "네가 급하게 가지 않아도 된다면.",
+      "tokens": [
+        {
+          "meaning": "만약 ~라면",
+          "syllables": [
+            {
+              "thai": "ถ้า",
+              "reading": "타-",
+              "tone": "falling"
+            }
+          ]
+        },
+        {
+          "meaning": "너",
+          "syllables": [
+            {
+              "thai": "เธอ",
+              "reading": "트ㅓ-",
+              "tone": "mid"
+            }
+          ]
+        },
+        {
+          "meaning": "서두르지 않다",
+          "syllables": [
+            {
+              "thai": "ไม่",
+              "reading": "마이-",
+              "tone": "falling"
+            },
+            {
+              "thai": "รีบ",
+              "reading": "리-ㅂ",
+              "tone": "falling"
+            }
+          ]
+        },
+        {
+          "meaning": "가다",
+          "syllables": [
+            {
+              "thai": "ไป",
+              "reading": "빠이-",
+              "tone": "mid"
+            }
+          ]
+        }
+      ],
+      "studyNotes": [
+        "ถ้า는 가장 일반적으로 쓰이는 ‘만약 ~라면’ 조건 표현이다.",
+        "รีบ + 동사는 ‘서둘러 ~하다’라는 뜻이다. รีบไป는 ‘서둘러 가다’다."
+      ]
+    },
+    {
+      "id": "s3",
+      "thai": "ฝนยังไม่จาง กลับไปเดี๋ยวไม่สบาย",
+      "audio": "",
+      "natural": "비가 아직 잦아들지 않았어. 지금 돌아가면 그러다 몸이 안 좋아질 거야.",
+      "tokens": [
+        {
+          "meaning": "비",
+          "syllables": [
+            {
+              "thai": "ฝน",
+              "reading": "f폰",
+              "tone": "rising"
+            }
+          ]
+        },
+        {
+          "meaning": "아직 ~하지 않다",
+          "syllables": [
+            {
+              "thai": "ยัง",
+              "reading": "양",
+              "tone": "mid"
+            },
+            {
+              "thai": "ไม่",
+              "reading": "마이-",
+              "tone": "falling"
+            }
+          ]
+        },
+        {
+          "meaning": "옅어지다·약해지다",
+          "syllables": [
+            {
+              "thai": "จาง",
+              "reading": "짜-ㅇ",
+              "tone": "mid"
+            }
+          ]
+        },
+        {
+          "meaning": "돌아가다",
+          "syllables": [
+            {
+              "thai": "กลับ",
+              "reading": "끌랍",
+              "tone": "low"
+            },
+            {
+              "thai": "ไป",
+              "reading": "빠이-",
+              "tone": "mid"
+            }
+          ]
+        },
+        {
+          "meaning": "그러다가는·이따가",
+          "syllables": [
+            {
+              "thai": "เดี๋ยว",
+              "reading": "디아오-",
+              "tone": "rising"
+            }
+          ]
+        },
+        {
+          "meaning": "몸이 안 좋다·아프다",
+          "syllables": [
+            {
+              "thai": "ไม่",
+              "reading": "마이-",
+              "tone": "falling"
+            },
+            {
+              "thai": "สะ",
+              "reading": "싸",
+              "tone": "low"
+            },
+            {
+              "thai": "บาย",
+              "reading": "바-이",
+              "tone": "mid"
+            }
+          ]
+        }
+      ],
+      "studyNotes": [
+        "ยังไม่ + 동사·형용사는 ‘아직 ~하지 않다’라는 뜻이다.",
+        "จาง은 색이나 빛 등이 ‘옅어지다’라는 뜻이며 여기서는 비가 약해지는 모습을 표현한다.",
+        "เดี๋ยว가 좋지 않은 결과 앞에 오면 ‘그러다가는 ~할 거야’라는 걱정이나 경고의 뉘앙스가 생긴다.",
+        "ไม่สบาย는 일상회화에서 ‘몸이 안 좋다·아프다’를 뜻한다."
+      ]
+    },
+    {
+      "id": "s4",
+      "thai": "อยู่ก่อนไหม",
+      "audio": "",
+      "natural": "조금만 더 있다 갈래?",
+      "tokens": [
+        {
+          "meaning": "조금 더 머물다",
+          "syllables": [
+            {
+              "thai": "อยู่",
+              "reading": "유-",
+              "tone": "low"
+            },
+            {
+              "thai": "ก่อน",
+              "reading": "꺼-ㄴ",
+              "tone": "low"
+            }
+          ]
+        },
+        {
+          "meaning": "~할래?·~할까?",
+          "syllables": [
+            {
+              "thai": "ไหม",
+              "reading": "마이-",
+              "tone": "rising"
+            }
+          ]
+        }
+      ],
+      "studyNotes": [
+        "อยู่ก่อน은 문맥에 따라 ‘일단 있다·조금 더 있다가 가다’라는 의미가 된다.",
+        "ไหม를 붙이면 상대방의 의사를 묻는 부드러운 제안이 된다."
+      ]
+    },
+    {
+      "id": "s5",
+      "thai": "ติดเธอไม่ไหว ติดฝนอยู่ด้วยกันก่อนได้ไหม",
+      "audio": "",
+      "natural": "너에게 빠져서 어쩔 수가 없어. 비에 갇힌 김에 우리 조금만 더 같이 있어도 될까?",
+      "tokens": [
+        {
+          "meaning": "너에게 빠지다",
+          "syllables": [
+            {
+              "thai": "ติด",
+              "reading": "띳",
+              "tone": "low"
+            },
+            {
+              "thai": "เธอ",
+              "reading": "트ㅓ-",
+              "tone": "mid"
+            }
+          ]
+        },
+        {
+          "meaning": "견딜 수 없다",
+          "syllables": [
+            {
+              "thai": "ไม่",
+              "reading": "마이-",
+              "tone": "falling"
+            },
+            {
+              "thai": "ไหว",
+              "reading": "와이-",
+              "tone": "rising"
+            }
+          ]
+        },
+        {
+          "meaning": "비 때문에 발이 묶이다",
+          "syllables": [
+            {
+              "thai": "ติด",
+              "reading": "띳",
+              "tone": "low"
+            },
+            {
+              "thai": "ฝน",
+              "reading": "f폰",
+              "tone": "rising"
+            }
+          ]
+        },
+        {
+          "meaning": "함께 있다",
+          "syllables": [
+            {
+              "thai": "อยู่",
+              "reading": "유-",
+              "tone": "low"
+            },
+            {
+              "thai": "ด้วย",
+              "reading": "두아이-",
+              "tone": "falling"
+            },
+            {
+              "thai": "กัน",
+              "reading": "깐",
+              "tone": "mid"
+            }
+          ]
+        },
+        {
+          "meaning": "조금 더",
+          "syllables": [
+            {
+              "thai": "ก่อน",
+              "reading": "꺼-ㄴ",
+              "tone": "low"
+            }
+          ]
+        },
+        {
+          "meaning": "~해도 될까?",
+          "syllables": [
+            {
+              "thai": "ได้",
+              "reading": "다이-",
+              "tone": "falling"
+            },
+            {
+              "thai": "ไหม",
+              "reading": "마이-",
+              "tone": "rising"
+            }
+          ]
+        }
+      ],
+      "studyNotes": [
+        "후렴에서 ติดเธอ와 ติดฝน의 두 가지 ติด 의미를 반복해 곡의 핵심 언어유희를 강조한다.",
+        "ได้ไหม는 허락이나 가능 여부를 부드럽게 묻는 ‘~해도 될까?·~할 수 있을까?’라는 표현이다."
+      ]
+    },
+    {
+      "id": "s6",
+      "thai": "ถ้าเธอไม่ว่าอะไร",
+      "audio": "",
+      "natural": "네가 괜찮다면.",
+      "tokens": [
+        {
+          "meaning": "만약",
+          "syllables": [
+            {
+              "thai": "ถ้า",
+              "reading": "타-",
+              "tone": "falling"
+            }
+          ]
+        },
+        {
+          "meaning": "너",
+          "syllables": [
+            {
+              "thai": "เธอ",
+              "reading": "트ㅓ-",
+              "tone": "mid"
+            }
+          ]
+        },
+        {
+          "meaning": "괜찮다면·개의치 않는다면",
+          "syllables": [
+            {
+              "thai": "ไม่",
+              "reading": "마이-",
+              "tone": "falling"
+            },
+            {
+              "thai": "ว่า",
+              "reading": "와-",
+              "tone": "falling"
+            },
+            {
+              "thai": "อะ",
+              "reading": "아",
+              "tone": "low"
+            },
+            {
+              "thai": "ไร",
+              "reading": "라이-",
+              "tone": "mid"
+            }
+          ]
+        }
+      ],
+      "studyNotes": [
+        "ไม่ว่าอะไร는 직역하면 ‘아무 말도 하지 않다’이지만 허락을 구하는 문맥에서는 ‘괜찮다면·개의치 않는다면’이라는 뜻이 된다.",
+        "ถ้าเธอไม่ว่าอะไร는 상대의 동의를 조심스럽게 확인할 때 쓸 수 있는 자연스러운 표현이다."
+      ]
+    },
+    {
+      "id": "s7",
+      "thai": "ฝนยังไม่ซา รออีกแป๊บเราค่อยลา",
+      "audio": "",
+      "natural": "비가 아직 잦아들지 않았어. 조금만 더 기다렸다가 우리 그때 헤어지자.",
+      "tokens": [
+        {
+          "meaning": "비",
+          "syllables": [
+            {
+              "thai": "ฝน",
+              "reading": "f폰",
+              "tone": "rising"
+            }
+          ]
+        },
+        {
+          "meaning": "아직 ~하지 않다",
+          "syllables": [
+            {
+              "thai": "ยัง",
+              "reading": "양",
+              "tone": "mid"
+            },
+            {
+              "thai": "ไม่",
+              "reading": "마이-",
+              "tone": "falling"
+            }
+          ]
+        },
+        {
+          "meaning": "잦아들다·약해지다",
+          "syllables": [
+            {
+              "thai": "ซา",
+              "reading": "싸-",
+              "tone": "mid"
+            }
+          ]
+        },
+        {
+          "meaning": "기다리다",
+          "syllables": [
+            {
+              "thai": "รอ",
+              "reading": "러-",
+              "tone": "mid"
+            }
+          ]
+        },
+        {
+          "meaning": "조금만 더",
+          "syllables": [
+            {
+              "thai": "อีก",
+              "reading": "이-ㄱ",
+              "tone": "low"
+            },
+            {
+              "thai": "แป๊บ",
+              "reading": "빼-ㅂ",
+              "tone": "high"
+            }
+          ]
+        },
+        {
+          "meaning": "우리",
+          "syllables": [
+            {
+              "thai": "เรา",
+              "reading": "라오-",
+              "tone": "mid"
+            }
+          ]
+        },
+        {
+          "meaning": "그때 가서 ~하다",
+          "syllables": [
+            {
+              "thai": "ค่อย",
+              "reading": "커이-",
+              "tone": "falling"
+            }
+          ]
+        },
+        {
+          "meaning": "헤어지다·작별하다",
+          "syllables": [
+            {
+              "thai": "ลา",
+              "reading": "라-",
+              "tone": "mid"
+            }
+          ]
+        }
+      ],
+      "studyNotes": [
+        "ซา는 비·바람·통증·소란 등이 ‘잦아들다·약해지다’라는 뜻이다.",
+        "อีกแป๊บ은 일상회화에서 ‘조금만 더·잠깐만 더’라는 뜻으로 자주 쓰인다.",
+        "ค่อย + 동사는 ‘먼저 다른 일을 한 다음에 그때 ~하다’라는 순서를 나타낸다.",
+        "เราค่อยลา는 직역하면 ‘그때 가서 우리 작별하자’이며 노래에서는 ‘조금 있다가 헤어지자’라는 서정적인 표현이다."
+      ]
+    },
+    {
+      "id": "s8",
+      "thai": "จะได้ไหม",
+      "audio": "",
+      "natural": "그래도 될까?",
+      "tokens": [
+        {
+          "meaning": "그래도 될까?·가능할까?",
+          "syllables": [
+            {
+              "thai": "จะ",
+              "reading": "짜",
+              "tone": "low"
+            },
+            {
+              "thai": "ได้",
+              "reading": "다이-",
+              "tone": "falling"
+            },
+            {
+              "thai": "ไหม",
+              "reading": "마이-",
+              "tone": "rising"
+            }
+          ]
+        }
+      ],
+      "studyNotes": [
+        "จะได้ไหม는 앞에서 제안한 내용 전체를 받아 ‘그렇게 해도 될까?·그럴 수 있을까?’라고 묻는다.",
+        "앞 문맥이 이미 제시된 경우 한국어에서는 간단히 ‘그래도 될까?’가 자연스럽다."
+      ]
+    },
+    {
+      "id": "s9",
+      "thai": "ติดเธอเข้าแล้ว ไม่อยากให้ไป",
+      "audio": "",
+      "natural": "어느새 너에게 푹 빠져 버렸어. 네가 가지 않았으면 좋겠어.",
+      "tokens": [
+        {
+          "meaning": "너에게 빠지다",
+          "syllables": [
+            {
+              "thai": "ติด",
+              "reading": "띳",
+              "tone": "low"
+            },
+            {
+              "thai": "เธอ",
+              "reading": "트ㅓ-",
+              "tone": "mid"
+            }
+          ]
+        },
+        {
+          "meaning": "이미 그런 상태가 되어 버리다",
+          "syllables": [
+            {
+              "thai": "เข้า",
+              "reading": "카오-",
+              "tone": "falling"
+            },
+            {
+              "thai": "แล้ว",
+              "reading": "래오-",
+              "tone": "high"
+            }
+          ]
+        },
+        {
+          "meaning": "~하고 싶지 않다",
+          "syllables": [
+            {
+              "thai": "ไม่",
+              "reading": "마이-",
+              "tone": "falling"
+            },
+            {
+              "thai": "อยาก",
+              "reading": "야-ㄱ",
+              "tone": "low"
+            }
+          ]
+        },
+        {
+          "meaning": "~하게 하다",
+          "syllables": [
+            {
+              "thai": "ให้",
+              "reading": "하이-",
+              "tone": "falling"
+            }
+          ]
+        },
+        {
+          "meaning": "가다",
+          "syllables": [
+            {
+              "thai": "ไป",
+              "reading": "빠이-",
+              "tone": "mid"
+            }
+          ]
+        }
+      ],
+      "studyNotes": [
+        "ติดเธอเข้าแล้ว는 단순히 ‘너에게 빠져 있다’보다 ‘어느새 너에게 빠져 버렸다’라는 변화의 느낌이 강하다.",
+        "เข้าแล้ว는 특정 상태에 이미 들어서게 되었음을 강조한다.",
+        "ไม่อยากให้ + 사람 + 동사는 ‘그 사람이 ~하지 않았으면 좋겠다’라는 매우 유용한 회화 패턴이다.",
+        "ไม่อยากให้ไป는 문맥에서 목적어 เธอ가 생략된 것으로 ‘네가 가지 않았으면 좋겠어’라는 뜻이다."
+      ]
+    }
+  ]
 }
 ,{
 "id": "2026-08-13-your-story",
