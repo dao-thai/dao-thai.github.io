@@ -5131,5 +5131,392 @@ window.STUDIES=[
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-17-moon-shadow-ep4",
+    "date": "2026-09-17",
+    "title": "Moon Shadow Ep4",
+    "artist": "Moon Shadow",
+    "youtube": "",
+    "description": "대본",
+    "sentences": [
+      {
+        "id": "s1",
+        "thai": "ยูจะนอนกับใคร หรือคบใครไว้แก้เหงา",
+        "audio": "",
+        "natural": "네가 누구랑 자든, 외로움을 달래려고 누구를 사귀든.",
+        "tokens": [
+          {
+            "meaning": "너·유",
+            "syllables": [
+              {
+                "thai": "ยู",
+                "reading": "유-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "~할 것이다",
+            "syllables": [
+              {
+                "thai": "จะ",
+                "reading": "짜",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "자다",
+            "syllables": [
+              {
+                "thai": "นอน",
+                "reading": "너언-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "~와 함께",
+            "syllables": [
+              {
+                "thai": "กับ",
+                "reading": "깝",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "누구",
+            "syllables": [
+              {
+                "thai": "ใคร",
+                "reading": "크라이-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "또는",
+            "syllables": [
+              {
+                "thai": "หรือ",
+                "reading": "르ㅡ-",
+                "tone": "rising"
+              }
+            ]
+          },
+          {
+            "meaning": "사귀다",
+            "syllables": [
+              {
+                "thai": "คบ",
+                "reading": "콥",
+                "tone": "high"
+              }
+            ]
+          },
+          {
+            "meaning": "누구",
+            "syllables": [
+              {
+                "thai": "ใคร",
+                "reading": "크라이-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "~해 두다",
+            "syllables": [
+              {
+                "thai": "ไว้",
+                "reading": "와이-",
+                "tone": "high"
+              }
+            ]
+          },
+          {
+            "meaning": "외로움을 달래다",
+            "syllables": [
+              {
+                "thai": "แก้",
+                "reading": "깨-",
+                "tone": "falling"
+              },
+              {
+                "thai": "เหงา",
+                "reading": "응아오-",
+                "tone": "rising"
+              }
+            ]
+          }
+        ],
+        "studyNotes": [
+          "จะ + 동사는 미래나 의지를 나타내지만, 문맥에 따라 ‘~하든’처럼 조건적으로 풀 수 있다.",
+          "คบใครไว้는 ‘누군가를 사귀어 두다’라는 뉘앙스다.",
+          "แก้เหงา는 외로움을 ‘해결하다’에서 자연스럽게 ‘달래다’로 해석한다."
+        ]
+      },
+      {
+        "id": "s2",
+        "thai": "ไอไม่ว่านะ ไอเข้าใจ",
+        "audio": "",
+        "natural": "나는 뭐라고 안 해. 이해해.",
+        "tokens": [
+          {
+            "meaning": "나·아이",
+            "syllables": [
+              {
+                "thai": "ไอ",
+                "reading": "아이-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "아니다·않다",
+            "syllables": [
+              {
+                "thai": "ไม่",
+                "reading": "마이-",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "탓하다·뭐라 하다",
+            "syllables": [
+              {
+                "thai": "ว่า",
+                "reading": "와-",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "부드러운 어미",
+            "syllables": [
+              {
+                "thai": "นะ",
+                "reading": "나",
+                "tone": "high"
+              }
+            ]
+          },
+          {
+            "meaning": "나·아이",
+            "syllables": [
+              {
+                "thai": "ไอ",
+                "reading": "아이-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "이해하다",
+            "syllables": [
+              {
+                "thai": "เข้า",
+                "reading": "카오-",
+                "tone": "falling"
+              },
+              {
+                "thai": "ใจ",
+                "reading": "짜이-",
+                "tone": "mid"
+              }
+            ]
+          }
+        ],
+        "studyNotes": [
+          "ไอ는 영어 I를 태국어식으로 적은 말로, 친한 사이의 말투에서 쓴다.",
+          "ไม่ว่า는 ‘탓하지 않다’, ‘뭐라 하지 않다’로 자연스럽게 번역한다.",
+          "นะ는 말끝을 부드럽게 만들거나 상대를 달래는 느낌을 준다."
+        ]
+      },
+      {
+        "id": "s3",
+        "thai": "ฝากดูแลจันทร์ของพี่ด้วยนะ น้องคีย์",
+        "audio": "",
+        "natural": "내 달을 잘 부탁해, 키.",
+        "tokens": [
+          {
+            "meaning": "맡기다·부탁하다",
+            "syllables": [
+              {
+                "thai": "ฝาก",
+                "reading": "파-ㄱ",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "돌보다",
+            "syllables": [
+              {
+                "thai": "ดู",
+                "reading": "두-",
+                "tone": "mid"
+              },
+              {
+                "thai": "แล",
+                "reading": "래-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "달·짠",
+            "syllables": [
+              {
+                "thai": "จันทร์",
+                "reading": "짠",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "나의·형/누나의",
+            "syllables": [
+              {
+                "thai": "ของ",
+                "reading": "커-ㅇ",
+                "tone": "rising"
+              },
+              {
+                "thai": "พี่",
+                "reading": "피-",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "~도·부탁의 강조",
+            "syllables": [
+              {
+                "thai": "ด้วย",
+                "reading": "두아이-",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "부드러운 어미",
+            "syllables": [
+              {
+                "thai": "นะ",
+                "reading": "나",
+                "tone": "high"
+              }
+            ]
+          },
+          {
+            "meaning": "동생·어린 사람 호칭",
+            "syllables": [
+              {
+                "thai": "น้อง",
+                "reading": "너엉-",
+                "tone": "high"
+              }
+            ]
+          },
+          {
+            "meaning": "키·Key",
+            "syllables": [
+              {
+                "thai": "คีย์",
+                "reading": "키-",
+                "tone": "mid"
+              }
+            ]
+          }
+        ],
+        "studyNotes": [
+          "ฝาก + 동사는 ‘~하는 것을 부탁하다’라는 구조다.",
+          "ดูแล은 사람을 챙기고 돌본다는 뜻이다.",
+          "ของพี่는 직역하면 ‘형/누나의’지만, 말하는 사람의 관계에 따라 ‘내’로 자연스럽게 번역한다."
+        ]
+      },
+      {
+        "id": "s4",
+        "thai": "ไม่ต้องห่วงนะคะ พี่เจ",
+        "audio": "",
+        "natural": "걱정하지 마세요, 제.",
+        "tokens": [
+          {
+            "meaning": "~할 필요 없다",
+            "syllables": [
+              {
+                "thai": "ไม่",
+                "reading": "마이-",
+                "tone": "falling"
+              },
+              {
+                "thai": "ต้อง",
+                "reading": "떠엉-",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "걱정하다",
+            "syllables": [
+              {
+                "thai": "ห่วง",
+                "reading": "후앙-",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "부드러운 어미",
+            "syllables": [
+              {
+                "thai": "นะ",
+                "reading": "나",
+                "tone": "high"
+              }
+            ]
+          },
+          {
+            "meaning": "공손 어미",
+            "syllables": [
+              {
+                "thai": "คะ",
+                "reading": "카",
+                "tone": "high"
+              }
+            ]
+          },
+          {
+            "meaning": "형·누나 호칭",
+            "syllables": [
+              {
+                "thai": "พี่",
+                "reading": "피-",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "제·Jay",
+            "syllables": [
+              {
+                "thai": "เจ",
+                "reading": "쩨-",
+                "tone": "mid"
+              }
+            ]
+          }
+        ],
+        "studyNotes": [
+          "ไม่ต้อง + 동사는 ‘~하지 않아도 된다’, ‘~하지 마라’로 쓴다.",
+          "ห่วง은 걱정하거나 마음을 쓰는 느낌이다.",
+          "นะคะ는 부드럽고 공손한 말끝 표현이다."
+        ]
+      }
+    ]
   }
 ]
