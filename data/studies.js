@@ -5135,10 +5135,10 @@ window.STUDIES=[
   {
     "id": "2026-09-17-moon-shadow-ep4",
     "date": "2026-09-17",
-    "title": "Moon Shadow Ep4",
-    "artist": "Moon Shadow",
+    "title": "Moon Shadow",
+    "artist": "Drama Dialogue · Ep.4",
     "youtube": "",
-    "description": "대본",
+    "description": "",
     "sentences": [
       {
         "id": "s1",
