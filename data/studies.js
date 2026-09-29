@@ -1,5 +1,696 @@
 window.STUDIES=[
   {
+    "id": "2026-10-01-moon-shadow-ep6",
+    "date": "2026-10-01",
+    "title": "Moon Shadow",
+    "artist": "Drama Dialogue · Ep.6",
+    "youtube": "",
+    "description": "",
+    "sentences": [
+      {
+        "id": "s1",
+        "thai": "ตื่นสักทีนะ หายเมาหรือยัง?????",
+        "audio": "",
+        "natural": "이제야 일어났네. 술은 좀 깼어?",
+        "tokens": [
+          {
+            "meaning": "깨다·일어나다",
+            "syllables": [
+              {
+                "thai": "ตื่น",
+                "reading": "뜨ㅡㄴ-",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "드디어·이제야",
+            "syllables": [
+              {
+                "thai": "สัก",
+                "reading": "싹",
+                "tone": "low"
+              },
+              {
+                "thai": "ที",
+                "reading": "티-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "말끝을 부드럽게 하는 어미",
+            "syllables": [
+              {
+                "thai": "นะ",
+                "reading": "나",
+                "tone": "high"
+              }
+            ]
+          },
+          {
+            "meaning": "술이 깨다",
+            "syllables": [
+              {
+                "thai": "หาย",
+                "reading": "하이-",
+                "tone": "rising"
+              },
+              {
+                "thai": "เมา",
+                "reading": "마오-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "벌써 ~했어?·아직이야?",
+            "syllables": [
+              {
+                "thai": "หรือ",
+                "reading": "르ㅡ-",
+                "tone": "rising"
+              },
+              {
+                "thai": "ยัง",
+                "reading": "양",
+                "tone": "mid"
+              }
+            ]
+          }
+        ],
+        "studyNotes": [
+          "สักที는 기다리던 일이 드디어 일어났다는 느낌으로, 여기서는 ‘이제야’에 가깝다.",
+          "หาย + 상태는 그 상태가 없어지는 것을 뜻한다. หายเมา는 ‘술이 깨다’다.",
+          "…หรือยัง은 어떤 일이 이미 이루어졌는지 묻는 ‘벌써 ~했어?’라는 표현이다."
+        ]
+      },
+      {
+        "id": "s2",
+        "thai": "ยู…",
+        "audio": "",
+        "natural": "너…",
+        "tokens": [
+          {
+            "meaning": "너",
+            "syllables": [
+              {
+                "thai": "ยู",
+                "reading": "유-",
+                "tone": "mid"
+              }
+            ]
+          }
+        ],
+        "studyNotes": [
+          "ยู는 영어 you에서 온 친근한 2인칭 표현이다. 말줄임표는 당황하여 말을 잇지 못하는 느낌을 살린다."
+        ]
+      },
+      {
+        "id": "s3",
+        "thai": "งงอ่ะดิว่าเราเป็นใคร แล้วคุณมาอยู่ที่นี่ได้ไงใช่ป่ะ?",
+        "audio": "",
+        "natural": "내가 누군지, 네가 어떻게 여기 와 있는 건지 어리둥절하지?",
+        "tokens": [
+          {
+            "meaning": "어리둥절하다·혼란스럽다",
+            "syllables": [
+              {
+                "thai": "งง",
+                "reading": "응옹",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "그렇지?·그럴 거야 (구어체)",
+            "syllables": [
+              {
+                "thai": "อ่ะ",
+                "reading": "아",
+                "tone": "low"
+              },
+              {
+                "thai": "ดิ",
+                "reading": "디",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "~인지·~라고",
+            "syllables": [
+              {
+                "thai": "ว่า",
+                "reading": "와-",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "나",
+            "syllables": [
+              {
+                "thai": "เรา",
+                "reading": "라오-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "누구이다",
+            "syllables": [
+              {
+                "thai": "เป็น",
+                "reading": "뻰",
+                "tone": "mid"
+              },
+              {
+                "thai": "ใคร",
+                "reading": "크라이-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "그리고·그럼",
+            "syllables": [
+              {
+                "thai": "แล้ว",
+                "reading": "래오-",
+                "tone": "high"
+              }
+            ]
+          },
+          {
+            "meaning": "너·당신",
+            "syllables": [
+              {
+                "thai": "คุณ",
+                "reading": "쿤",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "와서 있다",
+            "syllables": [
+              {
+                "thai": "มา",
+                "reading": "마-",
+                "tone": "mid"
+              },
+              {
+                "thai": "อยู่",
+                "reading": "유-",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "여기에",
+            "syllables": [
+              {
+                "thai": "ที่",
+                "reading": "티-",
+                "tone": "falling"
+              },
+              {
+                "thai": "นี่",
+                "reading": "니-",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "어떻게 ~할 수 있었는지",
+            "syllables": [
+              {
+                "thai": "ได้",
+                "reading": "다이-",
+                "tone": "falling"
+              },
+              {
+                "thai": "ไง",
+                "reading": "응아이-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "그렇지?·맞지?",
+            "syllables": [
+              {
+                "thai": "ใช่",
+                "reading": "차이-",
+                "tone": "falling"
+              },
+              {
+                "thai": "ป่ะ",
+                "reading": "빠",
+                "tone": "low"
+              }
+            ]
+          }
+        ],
+        "studyNotes": [
+          "เรา는 ‘우리’뿐 아니라 친근한 대화에서 ‘나’라는 뜻으로도 쓰인다. 여기서는 ‘나’다.",
+          "อ่ะดิ는 상대의 반응을 짐작하면서 ‘그렇지?’ 하고 짚는 구어적인 말투다.",
+          "ได้ไง는 ได้ยังไง를 줄인 말로 ‘어떻게 ~할 수 있었어?’라는 뜻이다. ใช่ป่ะ는 ‘맞지?’라는 가벼운 확인 질문이다."
+        ]
+      },
+      {
+        "id": "s4",
+        "thai": "เมื่อคืนยูกับไอ….",
+        "audio": "",
+        "natural": "어젯밤 너랑 나…",
+        "tokens": [
+          {
+            "meaning": "어젯밤",
+            "syllables": [
+              {
+                "thai": "เมื่อ",
+                "reading": "므아-",
+                "tone": "falling"
+              },
+              {
+                "thai": "คืน",
+                "reading": "크ㅡㄴ-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "너",
+            "syllables": [
+              {
+                "thai": "ยู",
+                "reading": "유-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "~와 함께",
+            "syllables": [
+              {
+                "thai": "กับ",
+                "reading": "깝",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "나",
+            "syllables": [
+              {
+                "thai": "ไอ",
+                "reading": "아이-",
+                "tone": "mid"
+              }
+            ]
+          }
+        ],
+        "studyNotes": [
+          "เมื่อคืน은 ‘어젯밤’이다.",
+          "ยูกับไอ는 ‘너와 나’라는 뜻이다. 말을 끝내지 않아 다음 대사의 질문으로 이어진다."
+        ]
+      },
+      {
+        "id": "s5",
+        "thai": "มีอะไรกันหรือเปล่าหรอ?",
+        "audio": "",
+        "natural": "우리 혹시 잤어?",
+        "tokens": [
+          {
+            "meaning": "관계를 갖다 (문맥상)",
+            "syllables": [
+              {
+                "thai": "มี",
+                "reading": "미-",
+                "tone": "mid"
+              },
+              {
+                "thai": "อะ",
+                "reading": "아",
+                "tone": "low"
+              },
+              {
+                "thai": "ไร",
+                "reading": "라이-",
+                "tone": "mid"
+              },
+              {
+                "thai": "กัน",
+                "reading": "깐",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "~했어, 안 했어?",
+            "syllables": [
+              {
+                "thai": "หรือ",
+                "reading": "르ㅡ-",
+                "tone": "rising"
+              },
+              {
+                "thai": "เปล่า",
+                "reading": "쁠라오-",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "~인 거야? (의문 어미)",
+            "syllables": [
+              {
+                "thai": "หรอ",
+                "reading": "러-",
+                "tone": "rising"
+              }
+            ]
+          }
+        ],
+        "studyNotes": [
+          "มีอะไรกัน은 직역하면 ‘서로 무언가 있다’지만, 이 장면에서는 ‘성관계를 갖다’를 완곡하게 묻는 표현이다.",
+          "หรือเปล่า는 사실 여부를 묻는 의문 표현이다.",
+          "หรอ는 เหรอ의 비격식 표기다. 앞 문장과 이어서 ‘어젯밤 너랑 나 혹시 잤어?’로 이해하면 자연스럽다."
+        ]
+      },
+      {
+        "id": "s6",
+        "thai": "ใจเย็นๆนะคุณหนู",
+        "audio": "",
+        "natural": "진정해요, 아가씨.",
+        "tokens": [
+          {
+            "meaning": "진정하다·침착하다",
+            "syllables": [
+              {
+                "thai": "ใจ",
+                "reading": "짜이-",
+                "tone": "mid"
+              },
+              {
+                "thai": "เย็น",
+                "reading": "옌",
+                "tone": "mid"
+              },
+              {
+                "thai": "ๆ",
+                "reading": "옌",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "부드러운 어미",
+            "syllables": [
+              {
+                "thai": "นะ",
+                "reading": "나",
+                "tone": "high"
+              }
+            ]
+          },
+          {
+            "meaning": "아가씨·도련님 (호칭)",
+            "syllables": [
+              {
+                "thai": "คุณ",
+                "reading": "쿤",
+                "tone": "mid"
+              },
+              {
+                "thai": "หนู",
+                "reading": "누-",
+                "tone": "rising"
+              }
+            ]
+          }
+        ],
+        "studyNotes": [
+          "ใจเย็นๆ는 ‘진정해·침착해’라는 뜻이다. ๆ는 앞말을 반복해서 읽는 기호다.",
+          "คุณหนู는 귀하게 자란 집안의 자녀를 부르는 호칭으로, 여기서는 ‘아가씨’라고 놀리듯 부르는 느낌이다."
+        ]
+      },
+      {
+        "id": "s7",
+        "thai": "เราไม่ได้มีรสนิยมชอบขึ้นเตียงกับคนเมา",
+        "audio": "",
+        "natural": "난 술 취한 사람이랑 자는 취향은 없거든.",
+        "tokens": [
+          {
+            "meaning": "나",
+            "syllables": [
+              {
+                "thai": "เรา",
+                "reading": "라오-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "~한 것은 아니다·~하지 않다",
+            "syllables": [
+              {
+                "thai": "ไม่",
+                "reading": "마이-",
+                "tone": "falling"
+              },
+              {
+                "thai": "ได้",
+                "reading": "다이-",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "있다·가지다",
+            "syllables": [
+              {
+                "thai": "มี",
+                "reading": "미-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "취향·기호",
+            "syllables": [
+              {
+                "thai": "รส",
+                "reading": "롯",
+                "tone": "high"
+              },
+              {
+                "thai": "นิ",
+                "reading": "니",
+                "tone": "high"
+              },
+              {
+                "thai": "ยม",
+                "reading": "욤",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "좋아하다",
+            "syllables": [
+              {
+                "thai": "ชอบ",
+                "reading": "처-ㅂ",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "잠자리를 갖다·침대에 오르다",
+            "syllables": [
+              {
+                "thai": "ขึ้น",
+                "reading": "크ㅡㄴ",
+                "tone": "falling"
+              },
+              {
+                "thai": "เตียง",
+                "reading": "띠앙-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "~와 함께",
+            "syllables": [
+              {
+                "thai": "กับ",
+                "reading": "깝",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "취한 사람",
+            "syllables": [
+              {
+                "thai": "คน",
+                "reading": "콘",
+                "tone": "mid"
+              },
+              {
+                "thai": "เมา",
+                "reading": "마오-",
+                "tone": "mid"
+              }
+            ]
+          }
+        ],
+        "studyNotes": [
+          "ไม่ได้는 여기서 과거 시제보다 상대의 추측을 부정하는 역할을 한다.",
+          "รสนิยม은 개인의 ‘취향·기호’를 뜻한다.",
+          "ขึ้นเตียงกับ…는 직역하면 ‘~와 침대에 오르다’이며, 이 문맥에서는 ‘~와 잠자리를 갖다’라는 뜻이다."
+        ]
+      },
+      {
+        "id": "s8",
+        "thai": "โดยเฉพาะคนที่เมาแล้วนอนอ้วกแตกอยู่ริมถนนอะ",
+        "audio": "",
+        "natural": "특히 술에 취해서 길가에 누워 토를 잔뜩 해 놓은 사람하고는.",
+        "tokens": [
+          {
+            "meaning": "특히",
+            "syllables": [
+              {
+                "thai": "โดย",
+                "reading": "도-이",
+                "tone": "mid"
+              },
+              {
+                "thai": "เฉ",
+                "reading": "차",
+                "tone": "low"
+              },
+              {
+                "thai": "พาะ",
+                "reading": "퍼",
+                "tone": "high"
+              }
+            ]
+          },
+          {
+            "meaning": "~하는 사람",
+            "syllables": [
+              {
+                "thai": "คน",
+                "reading": "콘",
+                "tone": "mid"
+              },
+              {
+                "thai": "ที่",
+                "reading": "티-",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "술에 취하다",
+            "syllables": [
+              {
+                "thai": "เมา",
+                "reading": "마오-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "그리고·~한 뒤",
+            "syllables": [
+              {
+                "thai": "แล้ว",
+                "reading": "래오-",
+                "tone": "high"
+              }
+            ]
+          },
+          {
+            "meaning": "눕다·자다",
+            "syllables": [
+              {
+                "thai": "นอน",
+                "reading": "너-ㄴ",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "심하게 토하다",
+            "syllables": [
+              {
+                "thai": "อ้วก",
+                "reading": "우악-",
+                "tone": "falling"
+              },
+              {
+                "thai": "แตก",
+                "reading": "때-ㄱ",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "~하고 있다",
+            "syllables": [
+              {
+                "thai": "อยู่",
+                "reading": "유-",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "길가",
+            "syllables": [
+              {
+                "thai": "ริม",
+                "reading": "림",
+                "tone": "mid"
+              },
+              {
+                "thai": "ถ",
+                "reading": "타",
+                "tone": "low"
+              },
+              {
+                "thai": "นน",
+                "reading": "논",
+                "tone": "rising"
+              }
+            ]
+          },
+          {
+            "meaning": "구어적인 말끝 어미",
+            "syllables": [
+              {
+                "thai": "อะ",
+                "reading": "아",
+                "tone": "low"
+              }
+            ]
+          }
+        ],
+        "studyNotes": [
+          "โดยเฉพาะ는 ‘특히’라는 뜻으로, 앞 문장에서 말한 대상 중 하나를 콕 집는다.",
+          "คนที่ + 동사는 ‘~하는 사람’이라는 관계절 구조다.",
+          "อ้วกแตก은 토하는 모습을 거칠고 생생하게 강조하는 구어 표현이다. นอน은 여기서 ‘잠들다’보다 ‘누워 있다’로 이해하면 자연스럽다.",
+          "ริมถนน은 ‘길가·도로변’이다. 문장 끝의 อะ는 편한 대화에서 쓰는 말끝 표현이다."
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-09-03-moon-shadow-ep3",
     "date": "2026-09-03",
     "title": "Moon Shadow",
