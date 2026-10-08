@@ -1,5 +1,718 @@
 window.STUDIES=[
   {
+    "id": "2026-10-08-moon-shadow-ep6",
+    "date": "2026-10-08",
+    "title": "Moon Shadow",
+    "artist": "Drama Dialogue · Ep.6",
+    "youtube": "",
+    "description": "",
+    "sentences": [
+      {
+        "id": "s1",
+        "thai": "ไม่ต้องชดเชยอะไรให้เราหรอก ก็แค่... ออกไปจากห้องเราได้แล้ว",
+        "audio": "",
+        "natural": "나한테 뭘 보상해 줄 필요 없어. 그냥… 이제 내 방에서 나가 줘.",
+        "tokens": [
+          {
+            "meaning": "~할 필요 없다",
+            "syllables": [
+              {
+                "thai": "ไม่",
+                "reading": "마이-",
+                "tone": "falling"
+              },
+              {
+                "thai": "ต้อง",
+                "reading": "떠-ㅇ",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "보상하다·만회하다",
+            "syllables": [
+              {
+                "thai": "ชด",
+                "reading": "촛",
+                "tone": "high"
+              },
+              {
+                "thai": "เชย",
+                "reading": "츠ㅓ이-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "무엇·어떤 것",
+            "syllables": [
+              {
+                "thai": "อะ",
+                "reading": "아",
+                "tone": "low"
+              },
+              {
+                "thai": "ไร",
+                "reading": "라이-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "~에게·~를 위해",
+            "syllables": [
+              {
+                "thai": "ให้",
+                "reading": "하이-",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "나·내",
+            "syllables": [
+              {
+                "thai": "เรา",
+                "reading": "라오-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "부정을 강조하는 어미",
+            "syllables": [
+              {
+                "thai": "หรอก",
+                "reading": "러-ㄱ",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "그냥·그저 ~만",
+            "syllables": [
+              {
+                "thai": "ก็",
+                "reading": "꺼",
+                "tone": "falling"
+              },
+              {
+                "thai": "แค่",
+                "reading": "캐-",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "나가다",
+            "syllables": [
+              {
+                "thai": "ออก",
+                "reading": "어-ㄱ",
+                "tone": "low"
+              },
+              {
+                "thai": "ไป",
+                "reading": "빠이-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "~에서·~로부터",
+            "syllables": [
+              {
+                "thai": "จาก",
+                "reading": "짜-ㄱ",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "방",
+            "syllables": [
+              {
+                "thai": "ห้อง",
+                "reading": "허-ㅇ",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "나·내",
+            "syllables": [
+              {
+                "thai": "เรา",
+                "reading": "라오-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "이제 ~해도 된다·~해라",
+            "syllables": [
+              {
+                "thai": "ได้",
+                "reading": "다이-",
+                "tone": "falling"
+              },
+              {
+                "thai": "แล้ว",
+                "reading": "래오-",
+                "tone": "high"
+              }
+            ]
+          }
+        ],
+        "studyNotes": [
+          "ไม่ต้อง…หรอก은 ‘굳이 ~할 필요 없어’라며 상대의 제안이나 필요성을 부정하는 표현이다.",
+          "ชดเชย는 손해나 부족한 부분을 ‘보상하다·메우다’라는 뜻이다.",
+          "เรา는 여기서 ‘나’다. ห้องเรา는 소유를 나타내는 ของ 없이 ‘내 방’을 뜻한다.",
+          "명령하는 문맥의 …ได้แล้ว는 단순한 허락보다 ‘이제 그만 ~해’라는 재촉에 가깝다."
+        ]
+      },
+      {
+        "id": "s2",
+        "thai": "นี่ไล่กันแบบนี้เลยหรอ",
+        "audio": "",
+        "natural": "지금 나를 이렇게 쫓아내는 거야?",
+        "tokens": [
+          {
+            "meaning": "지금·이거 (주의를 끄는 말)",
+            "syllables": [
+              {
+                "thai": "นี่",
+                "reading": "니-",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "쫓아내다",
+            "syllables": [
+              {
+                "thai": "ไล่",
+                "reading": "라이-",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "상대를 가리키는 구어 표현",
+            "syllables": [
+              {
+                "thai": "กัน",
+                "reading": "깐",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "이렇게",
+            "syllables": [
+              {
+                "thai": "แบบ",
+                "reading": "배-ㅂ",
+                "tone": "low"
+              },
+              {
+                "thai": "นี้",
+                "reading": "니-",
+                "tone": "high"
+              }
+            ]
+          },
+          {
+            "meaning": "정말·바로 (강조)",
+            "syllables": [
+              {
+                "thai": "เลย",
+                "reading": "르ㅓ이-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "~인 거야?",
+            "syllables": [
+              {
+                "thai": "หรอ",
+                "reading": "러-",
+                "tone": "rising"
+              }
+            ]
+          }
+        ],
+        "studyNotes": [
+          "ไล่는 ‘쫓다·쫓아내다’라는 뜻이다.",
+          "กัน은 항상 ‘서로’로 번역하지 않는다. ไล่กัน은 여기서 상대가 자신을 쫓아내는 행동을 가리켜 ‘나를 쫓아내다’로 자연스럽게 해석한다.",
+          "แบบนี้เลยหรอ는 ‘정말 이렇게까지 하는 거야?’라는 놀람이나 서운함을 담는다. หรอ는 เหรอ의 비격식 표기다."
+        ]
+      },
+      {
+        "id": "s3",
+        "thai": "คุณตื่นแล้วอะ จะอยู่ต่อทำไมอะ กลับไปได้แล้ว",
+        "audio": "",
+        "natural": "이제 깼잖아. 더 있어 봐야 뭐 해? 이제 돌아가.",
+        "tokens": [
+          {
+            "meaning": "너·당신",
+            "syllables": [
+              {
+                "thai": "คุณ",
+                "reading": "쿤",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "깨다·일어나다",
+            "syllables": [
+              {
+                "thai": "ตื่น",
+                "reading": "뜨ㅡ-ㄴ",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "이미·이제",
+            "syllables": [
+              {
+                "thai": "แล้ว",
+                "reading": "래오-",
+                "tone": "high"
+              }
+            ]
+          },
+          {
+            "meaning": "구어적인 말끝 어미",
+            "syllables": [
+              {
+                "thai": "อะ",
+                "reading": "아",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "~하려고 하다",
+            "syllables": [
+              {
+                "thai": "จะ",
+                "reading": "짜",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "계속 머물다",
+            "syllables": [
+              {
+                "thai": "อยู่",
+                "reading": "유-",
+                "tone": "low"
+              },
+              {
+                "thai": "ต่อ",
+                "reading": "떠-",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "왜·무엇 때문에",
+            "syllables": [
+              {
+                "thai": "ทำ",
+                "reading": "탐",
+                "tone": "mid"
+              },
+              {
+                "thai": "ไม",
+                "reading": "마이-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "구어적인 말끝 어미",
+            "syllables": [
+              {
+                "thai": "อะ",
+                "reading": "아",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "돌아가다",
+            "syllables": [
+              {
+                "thai": "กลับ",
+                "reading": "끌랍",
+                "tone": "low"
+              },
+              {
+                "thai": "ไป",
+                "reading": "빠이-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "이제 ~해도 된다·~해라",
+            "syllables": [
+              {
+                "thai": "ได้",
+                "reading": "다이-",
+                "tone": "falling"
+              },
+              {
+                "thai": "แล้ว",
+                "reading": "래오-",
+                "tone": "high"
+              }
+            ]
+          }
+        ],
+        "studyNotes": [
+          "ตื่นแล้ว는 ‘이미 깼다’라는 뜻이다. 앞 문장은 상대를 돌봐 줄 이유가 끝났다는 말투다.",
+          "동사 + ต่อ는 그 행동을 ‘계속하다’라는 뜻이다. อยู่ต่อ는 ‘더 머물다’다.",
+          "จะ…ทำไม는 단순한 이유 질문일 수도 있지만, 여기서는 ‘굳이 왜 ~하려고 해?’라는 반문이다."
+        ]
+      },
+      {
+        "id": "s4",
+        "thai": "แล้วเสื้อนี้ละ",
+        "audio": "",
+        "natural": "그럼 이 옷은?",
+        "tokens": [
+          {
+            "meaning": "그럼·그러면",
+            "syllables": [
+              {
+                "thai": "แล้ว",
+                "reading": "래오-",
+                "tone": "high"
+              }
+            ]
+          },
+          {
+            "meaning": "옷·상의",
+            "syllables": [
+              {
+                "thai": "เสื้อ",
+                "reading": "쓰아-",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "이것·이",
+            "syllables": [
+              {
+                "thai": "นี้",
+                "reading": "니-",
+                "tone": "high"
+              }
+            ]
+          },
+          {
+            "meaning": "~은? (화제 전환)",
+            "syllables": [
+              {
+                "thai": "ละ",
+                "reading": "라",
+                "tone": "high"
+              }
+            ]
+          }
+        ],
+        "studyNotes": [
+          "แล้ว…ล่ะ는 ‘그럼 ~은?’ 하고 다른 대상을 꺼내 묻는 표현이다.",
+          "원문에는 ละ로 적혀 있다. 표기대로라면 높은 성조지만, 이 문맥의 표준적인 의문 어미는 ล่ะ(라, 하강 성조)다.",
+          "เสื้อ는 옷 중에서도 주로 ‘상의’를 가리킨다."
+        ]
+      },
+      {
+        "id": "s5",
+        "thai": "ของคนคุยเราเองอะ แต่ว่าเลิกคุยไปแล้ว ไม่ได้อยากได้ เอาไปเถอะ",
+        "audio": "",
+        "natural": "나랑 썸 타던 사람 거야. 근데 이제 연락 끊었어. 갖고 싶지도 않으니까 가져가.",
+        "tokens": [
+          {
+            "meaning": "~의 것",
+            "syllables": [
+              {
+                "thai": "ของ",
+                "reading": "커-ㅇ",
+                "tone": "rising"
+              }
+            ]
+          },
+          {
+            "meaning": "썸 타는 사람",
+            "syllables": [
+              {
+                "thai": "คน",
+                "reading": "콘",
+                "tone": "mid"
+              },
+              {
+                "thai": "คุย",
+                "reading": "쿠이",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "나·내",
+            "syllables": [
+              {
+                "thai": "เรา",
+                "reading": "라오-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "바로·~일 뿐",
+            "syllables": [
+              {
+                "thai": "เอง",
+                "reading": "에-ㅇ",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "구어적인 말끝 어미",
+            "syllables": [
+              {
+                "thai": "อะ",
+                "reading": "아",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "그런데·하지만",
+            "syllables": [
+              {
+                "thai": "แต่",
+                "reading": "때-",
+                "tone": "low"
+              },
+              {
+                "thai": "ว่า",
+                "reading": "와-",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "연락을 끊다·대화를 그만두다",
+            "syllables": [
+              {
+                "thai": "เลิก",
+                "reading": "르ㅓ-ㄱ",
+                "tone": "falling"
+              },
+              {
+                "thai": "คุย",
+                "reading": "쿠이",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "이미 ~해 버렸다",
+            "syllables": [
+              {
+                "thai": "ไป",
+                "reading": "빠이-",
+                "tone": "mid"
+              },
+              {
+                "thai": "แล้ว",
+                "reading": "래오-",
+                "tone": "high"
+              }
+            ]
+          },
+          {
+            "meaning": "~한 것은 아니다",
+            "syllables": [
+              {
+                "thai": "ไม่",
+                "reading": "마이-",
+                "tone": "falling"
+              },
+              {
+                "thai": "ได้",
+                "reading": "다이-",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "갖고 싶다",
+            "syllables": [
+              {
+                "thai": "อยาก",
+                "reading": "야-ㄱ",
+                "tone": "low"
+              },
+              {
+                "thai": "ได้",
+                "reading": "다이-",
+                "tone": "falling"
+              }
+            ]
+          },
+          {
+            "meaning": "가져가다",
+            "syllables": [
+              {
+                "thai": "เอา",
+                "reading": "아오-",
+                "tone": "mid"
+              },
+              {
+                "thai": "ไป",
+                "reading": "빠이-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "~해·~하렴 (권유)",
+            "syllables": [
+              {
+                "thai": "เถอะ",
+                "reading": "트ㅓ",
+                "tone": "low"
+              }
+            ]
+          }
+        ],
+        "studyNotes": [
+          "คนคุย는 정식 연인이 되기 전에 호감을 가지고 연락하는 상대, 즉 ‘썸 타는 사람’을 가리킨다.",
+          "เลิก + 동사는 그 행동을 그만둔다는 뜻이다. เลิกคุย는 여기서 단순히 말을 멈추는 것이 아니라 관계를 이어 가던 연락을 끊었다는 뜻이다.",
+          "อยากได้는 물건 등을 ‘갖고 싶다’, อยาก + 동사는 ‘~하고 싶다’다.",
+          "เอาไปเถอะ는 ‘그냥 가져가’라는 권유다. 앞 문장의 ไม่ได้อยากได้는 그 옷을 갖고 있을 마음이 없다는 뜻으로 연결된다."
+        ]
+      },
+      {
+        "id": "s6",
+        "thai": "ไปได้แล้วเหรอ",
+        "audio": "",
+        "natural": "이제 가도 되는 거야?",
+        "tokens": [
+          {
+            "meaning": "가다",
+            "syllables": [
+              {
+                "thai": "ไป",
+                "reading": "빠이-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "이제 ~해도 된다·~해라",
+            "syllables": [
+              {
+                "thai": "ได้",
+                "reading": "다이-",
+                "tone": "falling"
+              },
+              {
+                "thai": "แล้ว",
+                "reading": "래오-",
+                "tone": "high"
+              }
+            ]
+          },
+          {
+            "meaning": "~인 거야?·정말?",
+            "syllables": [
+              {
+                "thai": "เหรอ",
+                "reading": "러-",
+                "tone": "rising"
+              }
+            ]
+          }
+        ],
+        "studyNotes": [
+          "ไปได้는 ‘가도 된다’, แล้ว는 ‘이제’라는 변화의 의미를 더한다.",
+          "앞에서는 ได้แล้ว가 재촉하는 말투였지만, 여기서는 เหรอ가 붙어 ‘이제 가도 되는 거야?’라는 확인 질문이 된다."
+        ]
+      },
+      {
+        "id": "s7",
+        "thai": "My underwear...",
+        "audio": "",
+        "natural": "내 속옷은…",
+        "tokens": [],
+        "studyNotes": [
+          "영어 대사는 원문 그대로 유지했다. My는 ‘내’, underwear는 ‘속옷’이라는 뜻이다.",
+          "독음은 ‘마이 언더웨어’다. 영어 대사에는 태국어 성조를 붙이지 않는다.",
+          "완전한 질문 대신 물건 이름만 말해 ‘내 속옷은 어디 있어?’라는 뜻을 전달한다."
+        ]
+      },
+      {
+        "id": "s8",
+        "thai": "อยู่ในห้องน้ำ",
+        "audio": "",
+        "natural": "화장실에 있어.",
+        "tokens": [
+          {
+            "meaning": "있다·머물다",
+            "syllables": [
+              {
+                "thai": "อยู่",
+                "reading": "유-",
+                "tone": "low"
+              }
+            ]
+          },
+          {
+            "meaning": "~안에",
+            "syllables": [
+              {
+                "thai": "ใน",
+                "reading": "나이-",
+                "tone": "mid"
+              }
+            ]
+          },
+          {
+            "meaning": "화장실·욕실",
+            "syllables": [
+              {
+                "thai": "ห้อง",
+                "reading": "허-ㅇ",
+                "tone": "falling"
+              },
+              {
+                "thai": "น้ำ",
+                "reading": "나-ㅁ",
+                "tone": "high"
+              }
+            ]
+          }
+        ],
+        "studyNotes": [
+          "อยู่ใน…는 ‘~안에 있다’라는 위치 표현이다.",
+          "ห้องน้ำ는 ‘화장실·욕실’이다. 앞 대사의 속옷이 주어지만, 문맥으로 알 수 있어 생략했다."
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-10-01-moon-shadow-ep6",
     "date": "2026-10-01",
     "title": "Moon Shadow",
